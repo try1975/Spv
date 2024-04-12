@@ -1,0 +1,337 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "spv_dbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Spv.WinForms",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[auftragsstati]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[benches]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[columnheader]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[columnheader_fields]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[dbversion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[default_settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[engineering]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[engineeringhn248]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[engineeringhn248konz]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[files]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[groups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[groups_modules]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[hn248]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[hn248konz]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[meassure]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[meassured_val]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[modules]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[orders_details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pruef_locks]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pruefauftraege]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pruefauftraege_stati]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pruefstati]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[selftest]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[selftest_detail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[system_settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[testtypen]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[unit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user_groups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user_settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[users]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[v_columnheader]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_groupmembers]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_limits]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_meassure]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_meassure_hn248]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_meassure_hn248konz]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_meassured_val]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_memberof]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_memberrights]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_order]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_selftest]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_tests_per_testid]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[v_unitcalc]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[BenchAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[BenchUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ChangePressure]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ClosePruefung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DefaultSettingsUPD]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GroupAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GroupAddRef]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GroupDelRef]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GrouprightGet]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GroupRightUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GroupUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[LockSerialNb]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[MeassureUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[MeassureValIns]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[OrderAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[OrderDetailAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[PressureUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ReleaseAllLocks]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SelfTestAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SelfTestAddDetail]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SendEMSUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SettingsUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SystemsSettingsUPD]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UnLockSerialNb]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateHN248]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateHN248Konz]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UserAdd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UserSettingsUpd]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UserUpd]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": true,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": true,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
