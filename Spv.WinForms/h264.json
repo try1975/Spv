@@ -1,0 +1,7853 @@
+[
+  {
+    "ValveType": "100CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.515
+  },
+  {
+    "ValveType": "100CEDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.948
+  },
+  {
+    "ValveType": "100CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.95
+  },
+  {
+    "ValveType": "100CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 1.36
+  },
+  {
+    "ValveType": "100CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 1.365
+  },
+  {
+    "ValveType": "100CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.343
+  },
+  {
+    "ValveType": "100CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.482
+  },
+  {
+    "ValveType": "100CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.478
+  },
+  {
+    "ValveType": "100CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.478
+  },
+  {
+    "ValveType": "100CGT",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.4
+  },
+  {
+    "ValveType": "100ED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.948
+  },
+  {
+    "ValveType": "100FD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 1.36
+  },
+  {
+    "ValveType": "101CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.92,
+    "Bemerkungen": "SV WA3874: PF 119CEDK 587987"
+  },
+  {
+    "ValveType": "101CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.92
+  },
+  {
+    "ValveType": "101CJY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.157
+  },
+  {
+    "ValveType": "101HY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.066
+  },
+  {
+    "ValveType": "102CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.498
+  },
+  {
+    "ValveType": "102CFT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.121
+  },
+  {
+    "ValveType": "102CT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.116
+  },
+  {
+    "ValveType": "103CFS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.287
+  },
+  {
+    "ValveType": "105CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.785
+  },
+  {
+    "ValveType": "105CRXK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.785,
+    "Bemerkungen": "572043: PF"
+  },
+  {
+    "ValveType": "105R",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.785
+  },
+  {
+    "ValveType": "105RO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.785
+  },
+  {
+    "ValveType": "105RX",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.785
+  },
+  {
+    "ValveType": "106CF16",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.294
+  },
+  {
+    "ValveType": "106CF16K",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.294
+  },
+  {
+    "ValveType": "106CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.179
+  },
+  {
+    "ValveType": "106CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.179
+  },
+  {
+    "ValveType": "106CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.179
+  },
+  {
+    "ValveType": "106CFO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.179
+  },
+  {
+    "ValveType": "106CFOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.179
+  },
+  {
+    "ValveType": "107CFS",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.292
+  },
+  {
+    "ValveType": "107CFSF",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.292
+  },
+  {
+    "ValveType": "108A",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.39,
+    "Rate": 0.307
+  },
+  {
+    "ValveType": "109CD1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.432
+  },
+  {
+    "ValveType": "109CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.432
+  },
+  {
+    "ValveType": "109CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.87,
+    "Bemerkungen": "439357: PF 79R2\/120CD 041879 + 439357"
+  },
+  {
+    "ValveType": "109CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.438
+  },
+  {
+    "ValveType": "109CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.564
+  },
+  {
+    "ValveType": "109CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.571
+  },
+  {
+    "ValveType": "109CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.569
+  },
+  {
+    "ValveType": "109CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.569
+  },
+  {
+    "ValveType": "109F3D",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.41,
+    "Rate": 1.438
+  },
+  {
+    "ValveType": "10R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.9,
+    "Rate": 0.026,
+    "Bemerkungen": "RV 484971: Vorrichtung!"
+  },
+  {
+    "ValveType": "110CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.578,
+    "Bemerkungen": "SV 599271: PF 119CEDK 587987\/588097"
+  },
+  {
+    "ValveType": "110CE",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.61,
+    "Rate": 0.967
+  },
+  {
+    "ValveType": "110CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.906
+  },
+  {
+    "ValveType": "110CEK+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.998
+  },
+  {
+    "ValveType": "110CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.882
+  },
+  {
+    "ValveType": "110CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.88
+  },
+  {
+    "ValveType": "110CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.889
+  },
+  {
+    "ValveType": "110CGM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.778
+  },
+  {
+    "ValveType": "110CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.955
+  },
+  {
+    "ValveType": "110CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.998
+  },
+  {
+    "ValveType": "110CHK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.159
+  },
+  {
+    "ValveType": "110D2",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 0.562
+  },
+  {
+    "ValveType": "110GD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.882
+  },
+  {
+    "ValveType": "112CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.06
+  },
+  {
+    "ValveType": "112CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.06
+  },
+  {
+    "ValveType": "113EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.55,
+    "Rate": 1.072
+  },
+  {
+    "ValveType": "116CGT",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.49
+  },
+  {
+    "ValveType": "116CGTO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.49
+  },
+  {
+    "ValveType": "117CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999
+  },
+  {
+    "ValveType": "117CRO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999
+  },
+  {
+    "ValveType": "117CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999
+  },
+  {
+    "ValveType": "117CRXK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999
+  },
+  {
+    "ValveType": "117R",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999,
+    "Bemerkungen": "267283: PF 117R1 044128"
+  },
+  {
+    "ValveType": "117RO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.998
+  },
+  {
+    "ValveType": "117RX",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.999
+  },
+  {
+    "ValveType": "117RY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 1.998
+  },
+  {
+    "ValveType": "118CDP",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 0.538
+  },
+  {
+    "ValveType": "119CEK",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.948
+  },
+  {
+    "ValveType": "119CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.048
+  },
+  {
+    "ValveType": "119CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.048,
+    "Bemerkungen": "462615: PF 119CEDK 587987\/588097"
+  },
+  {
+    "ValveType": "119CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.047
+  },
+  {
+    "ValveType": "119CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.047
+  },
+  {
+    "ValveType": "119CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.174
+  },
+  {
+    "ValveType": "119CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.174
+  },
+  {
+    "ValveType": "119CHK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.174
+  },
+  {
+    "ValveType": "119GD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.048
+  },
+  {
+    "ValveType": "119GO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.047
+  },
+  {
+    "ValveType": "120CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.966
+  },
+  {
+    "ValveType": "121CES",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.194
+  },
+  {
+    "ValveType": "121CGM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.055
+  },
+  {
+    "ValveType": "121CGS",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.662
+  },
+  {
+    "ValveType": "122CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.48
+  },
+  {
+    "ValveType": "122CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.48
+  },
+  {
+    "ValveType": "122R10",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.443
+  },
+  {
+    "ValveType": "124CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.992
+  },
+  {
+    "ValveType": "124CEK+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.084
+  },
+  {
+    "ValveType": "124CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.625
+  },
+  {
+    "ValveType": "124CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.625
+  },
+  {
+    "ValveType": "124CFO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.628
+  },
+  {
+    "ValveType": "124CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.759
+  },
+  {
+    "ValveType": "124CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.759
+  },
+  {
+    "ValveType": "124CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.759
+  },
+  {
+    "ValveType": "124F3D",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.626
+  },
+  {
+    "ValveType": "124FD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.62
+  },
+  {
+    "ValveType": "124FO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.626
+  },
+  {
+    "ValveType": "125CED",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.54,
+    "Rate": 1.107
+  },
+  {
+    "ValveType": "126CF20",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.55
+  },
+  {
+    "ValveType": "126CF3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.55
+  },
+  {
+    "ValveType": "126CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.41
+  },
+  {
+    "ValveType": "126CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.413
+  },
+  {
+    "ValveType": "126CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.413
+  },
+  {
+    "ValveType": "126CFO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.41
+  },
+  {
+    "ValveType": "126CFOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 1.41
+  },
+  {
+    "ValveType": "126D2",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.41,
+    "Rate": 0.612
+  },
+  {
+    "ValveType": "126DO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.97,
+    "Rate": 0.614
+  },
+  {
+    "ValveType": "127CGOT",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.84
+  },
+  {
+    "ValveType": "127CGT",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.839,
+    "Bemerkungen": "487545: PF 122CFW 437328"
+  },
+  {
+    "ValveType": "130A",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.32,
+    "Rate": 0.375
+  },
+  {
+    "ValveType": "130CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.092
+  },
+  {
+    "ValveType": "131CHM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.553
+  },
+  {
+    "ValveType": "132CD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.743
+  },
+  {
+    "ValveType": "132CED",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.49,
+    "Rate": 1.209
+  },
+  {
+    "ValveType": "132CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.717
+  },
+  {
+    "ValveType": "132F3D",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.717
+  },
+  {
+    "ValveType": "132FD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.718
+  },
+  {
+    "ValveType": "133CES",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.082,
+    "Bemerkungen": "593938: PF"
+  },
+  {
+    "ValveType": "133CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.047,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "133CEW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.17,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "133CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.69
+  },
+  {
+    "ValveType": "133CFS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.648
+  },
+  {
+    "ValveType": "133CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.69
+  },
+  {
+    "ValveType": "133CGS",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.94
+  },
+  {
+    "ValveType": "134CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.966
+  },
+  {
+    "ValveType": "134CG",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.388
+  },
+  {
+    "ValveType": "134CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.379
+  },
+  {
+    "ValveType": "134CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.379
+  },
+  {
+    "ValveType": "134CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.376
+  },
+  {
+    "ValveType": "134CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.381
+  },
+  {
+    "ValveType": "134CGS",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.94
+  },
+  {
+    "ValveType": "134CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 2.535
+  },
+  {
+    "ValveType": "134CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 2.535,
+    "Bemerkungen": "486498: PF 134CFDK\/588020"
+  },
+  {
+    "ValveType": "134CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.376
+  },
+  {
+    "ValveType": "134CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.376
+  },
+  {
+    "ValveType": "134GD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.379
+  },
+  {
+    "ValveType": "134R",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.374,
+    "Bemerkungen": "418067: PF 484448"
+  },
+  {
+    "ValveType": "134RO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.374
+  },
+  {
+    "ValveType": "136CHK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 2.886
+  },
+  {
+    "ValveType": "136CHOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 2.886
+  },
+  {
+    "ValveType": "136H",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "137CHT",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.194
+  },
+  {
+    "ValveType": "13AK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.034,
+    "Bemerkungen": "468723+498019+498033:PF 410703"
+  },
+  {
+    "ValveType": "140CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.218,
+    "Bemerkungen": "599857: PF 580693"
+  },
+  {
+    "ValveType": "140CGD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.34
+  },
+  {
+    "ValveType": "142CHM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.898
+  },
+  {
+    "ValveType": "143CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.152
+  },
+  {
+    "ValveType": "143CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.905
+  },
+  {
+    "ValveType": "143CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.065
+  },
+  {
+    "ValveType": "143CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.065
+  },
+  {
+    "ValveType": "143CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.065
+  },
+  {
+    "ValveType": "143CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.067
+  },
+  {
+    "ValveType": "143CGO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.069
+  },
+  {
+    "ValveType": "143CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.061
+  },
+  {
+    "ValveType": "143EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.295
+  },
+  {
+    "ValveType": "143EHO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.46,
+    "Rate": 1.295
+  },
+  {
+    "ValveType": "143F3D",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.905
+  },
+  {
+    "ValveType": "143FO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.62,
+    "Rate": 1.904
+  },
+  {
+    "ValveType": "144CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.89
+  },
+  {
+    "ValveType": "144CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.89
+  },
+  {
+    "ValveType": "144CGS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.39
+  },
+  {
+    "ValveType": "144R10",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.852
+  },
+  {
+    "ValveType": "145A",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.28,
+    "Rate": 0.421
+  },
+  {
+    "ValveType": "145CFD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.869
+  },
+  {
+    "ValveType": "145CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062
+  },
+  {
+    "ValveType": "145CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062,
+    "Bemerkungen": "486446+596242: PF 580693"
+  },
+  {
+    "ValveType": "145CHK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062,
+    "Bemerkungen": "DV 472075: 145CHD 404216"
+  },
+  {
+    "ValveType": "145CHOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.06
+  },
+  {
+    "ValveType": "145CJD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.208
+  },
+  {
+    "ValveType": "145CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062
+  },
+  {
+    "ValveType": "145HD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062
+  },
+  {
+    "ValveType": "145R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.062
+  },
+  {
+    "ValveType": "146GN3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.55,
+    "Rate": 2.137
+  },
+  {
+    "ValveType": "147CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.7,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "147CEW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.868,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "147CHT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.47,
+    "Rate": 2.497
+  },
+  {
+    "ValveType": "148CES",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.208
+  },
+  {
+    "ValveType": "148CGS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.49,
+    "Rate": 2.396
+  },
+  {
+    "ValveType": "148CHS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.47,
+    "Rate": 2.512
+  },
+  {
+    "ValveType": "148CHT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.45,
+    "Rate": 2.608
+  },
+  {
+    "ValveType": "150CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.344
+  },
+  {
+    "ValveType": "152CJM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.212
+  },
+  {
+    "ValveType": "154CE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.685
+  },
+  {
+    "ValveType": "154CF",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.931
+  },
+  {
+    "ValveType": "154CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.931
+  },
+  {
+    "ValveType": "154CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.084
+  },
+  {
+    "ValveType": "154CGE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.38
+  },
+  {
+    "ValveType": "154CGW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.38
+  },
+  {
+    "ValveType": "154CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.277
+  },
+  {
+    "ValveType": "154CHK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154CHOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.273
+  },
+  {
+    "ValveType": "154CJD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.432
+  },
+  {
+    "ValveType": "154CJDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.432
+  },
+  {
+    "ValveType": "154CRK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154CROK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.273
+  },
+  {
+    "ValveType": "154F3D",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.28,
+    "Rate": 2.089
+  },
+  {
+    "ValveType": "154FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.31,
+    "Rate": 1.927
+  },
+  {
+    "ValveType": "154HD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154HDO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "154RE",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.274
+  },
+  {
+    "ValveType": "154RO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "155P06A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.911
+  },
+  {
+    "ValveType": "157CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.309
+  },
+  {
+    "ValveType": "157CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "157CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "157CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "157CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "157CGO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "158CHT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.915
+  },
+  {
+    "ValveType": "158CJT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.023
+  },
+  {
+    "ValveType": "15A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.28,
+    "Rate": 0.039,
+    "Bemerkungen": "SV 126651: PF \/ 422167: SV 126651+WA1244 \/ WA1244: PF+126651"
+  },
+  {
+    "ValveType": "15AK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.28,
+    "Rate": 0.039
+  },
+  {
+    "ValveType": "15R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.25,
+    "Rate": 0.04
+  },
+  {
+    "ValveType": "160CES",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.677
+  },
+  {
+    "ValveType": "160CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.469,
+    "Bemerkungen": "599842: PF 575685"
+  },
+  {
+    "ValveType": "160CHS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.861
+  },
+  {
+    "ValveType": "161CHS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.4,
+    "Rate": 2.979
+  },
+  {
+    "ValveType": "164CJD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.022
+  },
+  {
+    "ValveType": "164CJDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.022,
+    "Bemerkungen": "WA0248: PF 598591"
+  },
+  {
+    "ValveType": "164CJK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.021
+  },
+  {
+    "ValveType": "164CJO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.025
+  },
+  {
+    "ValveType": "164CJOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.024
+  },
+  {
+    "ValveType": "164CKD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.168
+  },
+  {
+    "ValveType": "164CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.046
+  },
+  {
+    "ValveType": "164CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.046
+  },
+  {
+    "ValveType": "164JD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.022
+  },
+  {
+    "ValveType": "164R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.046
+  },
+  {
+    "ValveType": "165CGE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.65
+  },
+  {
+    "ValveType": "165CGW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.65
+  },
+  {
+    "ValveType": "165F",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.52,
+    "Rate": 2.31
+  },
+  {
+    "ValveType": "166EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 1.508
+  },
+  {
+    "ValveType": "166EHO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 1.508
+  },
+  {
+    "ValveType": "168CJT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.395
+  },
+  {
+    "ValveType": "169CEP",
+    "Pressure": " 4\/3",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 1.218
+  },
+  {
+    "ValveType": "169CJT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.503
+  },
+  {
+    "ValveType": "16R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.24,
+    "Rate": 0.044
+  },
+  {
+    "ValveType": "170CEX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.595
+  },
+  {
+    "ValveType": "172CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.886
+  },
+  {
+    "ValveType": "172CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.886
+  },
+  {
+    "ValveType": "172CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "172CGO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "172CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "172FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.168
+  },
+  {
+    "ValveType": "172G3D",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "172GD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.673
+  },
+  {
+    "ValveType": "172GO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.888
+  },
+  {
+    "ValveType": "173CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.876
+  },
+  {
+    "ValveType": "173F",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.48,
+    "Rate": 2.44
+  },
+  {
+    "ValveType": "173FO",
+    "Pressure": "_",
+    "Vessel": 10,
+    "Time": 0,
+    "Rate": 2.437
+  },
+  {
+    "ValveType": "174CJD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174CJDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174CJO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174CKD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.451
+  },
+  {
+    "ValveType": "174CKDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.452
+  },
+  {
+    "ValveType": "174CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.302
+  },
+  {
+    "ValveType": "174JD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174JO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "174RE",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.299
+  },
+  {
+    "ValveType": "174RO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.299
+  },
+  {
+    "ValveType": "175CGS",
+    "Vessel": 10,
+    "Time": 0,
+    "Rate": 2.811
+  },
+  {
+    "ValveType": "175CHS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.4
+  },
+  {
+    "ValveType": "175CJS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.523
+  },
+  {
+    "ValveType": "176CGE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.93
+  },
+  {
+    "ValveType": "176CGW",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.42,
+    "Rate": 2.93
+  },
+  {
+    "ValveType": "179CJT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.31,
+    "Rate": 3.872
+  },
+  {
+    "ValveType": "179CKT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 3.984
+  },
+  {
+    "ValveType": "17GS1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.032
+  },
+  {
+    "ValveType": "180CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.11
+  },
+  {
+    "ValveType": "183CKD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.102
+  },
+  {
+    "ValveType": "183CKDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.099,
+    "Bemerkungen": "WA0246: PF 599694"
+  },
+  {
+    "ValveType": "183CKK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.099
+  },
+  {
+    "ValveType": "183CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.118
+  },
+  {
+    "ValveType": "183CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.118
+  },
+  {
+    "ValveType": "183KD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.102
+  },
+  {
+    "ValveType": "183R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.118
+  },
+  {
+    "ValveType": "183RO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.118
+  },
+  {
+    "ValveType": "184CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.153
+  },
+  {
+    "ValveType": "184CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.15
+  },
+  {
+    "ValveType": "184CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.159
+  },
+  {
+    "ValveType": "184CGO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.153
+  },
+  {
+    "ValveType": "184CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.15
+  },
+  {
+    "ValveType": "184G3D",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.159
+  },
+  {
+    "ValveType": "184GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 3.14
+  },
+  {
+    "ValveType": "186CEW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.187,
+    "Bemerkungen": "452135: PF 579686",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "186CGE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.18
+  },
+  {
+    "ValveType": "186CGW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.18
+  },
+  {
+    "ValveType": "187CGD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.443
+  },
+  {
+    "ValveType": "187FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.35
+  },
+  {
+    "ValveType": "188CFS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.41
+  },
+  {
+    "ValveType": "188CFS+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.563
+  },
+  {
+    "ValveType": "188CHS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.31,
+    "Rate": 3.805
+  },
+  {
+    "ValveType": "18A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.26,
+    "Rate": 0.033
+  },
+  {
+    "ValveType": "18C1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049
+  },
+  {
+    "ValveType": "18C4",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049
+  },
+  {
+    "ValveType": "18C5",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.048
+  },
+  {
+    "ValveType": "190CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.298
+  },
+  {
+    "ValveType": "190CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.214
+  },
+  {
+    "ValveType": "190CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.27
+  },
+  {
+    "ValveType": "190CJT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.276
+  },
+  {
+    "ValveType": "190CKT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 4.53
+  },
+  {
+    "ValveType": "190F",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.699
+  },
+  {
+    "ValveType": "191P18A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.732
+  },
+  {
+    "ValveType": "194CGD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.471
+  },
+  {
+    "ValveType": "194CKD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.441
+  },
+  {
+    "ValveType": "194CKDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.441
+  },
+  {
+    "ValveType": "194CKK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.44
+  },
+  {
+    "ValveType": "194CKO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.441
+  },
+  {
+    "ValveType": "194CLD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 5.601
+  },
+  {
+    "ValveType": "194CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.411
+  },
+  {
+    "ValveType": "194CROK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.411
+  },
+  {
+    "ValveType": "194KD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.441
+  },
+  {
+    "ValveType": "194KO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.44
+  },
+  {
+    "ValveType": "194R",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.411
+  },
+  {
+    "ValveType": "194RO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.411
+  },
+  {
+    "ValveType": "195EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.788
+  },
+  {
+    "ValveType": "195EHO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.788
+  },
+  {
+    "ValveType": "197CG",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.441
+  },
+  {
+    "ValveType": "197CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.447
+  },
+  {
+    "ValveType": "197CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.428
+  },
+  {
+    "ValveType": "197CHE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.82
+  },
+  {
+    "ValveType": "197CHW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.82
+  },
+  {
+    "ValveType": "197G3D",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.447
+  },
+  {
+    "ValveType": "197GD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.436
+  },
+  {
+    "ValveType": "19CDK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.048
+  },
+  {
+    "ValveType": "19CR",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.052
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "446798+478631+497036+497037+499508: PF"
+  },
+  {
+    "ValveType": "19R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.62,
+    "Rate": 0.079
+  },
+  {
+    "ValveType": "19U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049,
+    "Bemerkungen": "081123: PF \/ WA1173+WA1178: PF 19CU 478631"
+  },
+  {
+    "ValveType": "19UK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.042
+  },
+  {
+    "ValveType": "200CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.487
+  },
+  {
+    "ValveType": "200CKT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.819
+  },
+  {
+    "ValveType": "200CLT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.07
+  },
+  {
+    "ValveType": "200GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.158
+  },
+  {
+    "ValveType": "202CFS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.63,
+    "Bemerkungen": "487872: PF 202CFS\/465864"
+  },
+  {
+    "ValveType": "202CGS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.443
+  },
+  {
+    "ValveType": "202CGS+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.596
+  },
+  {
+    "ValveType": "202CJS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.431
+  },
+  {
+    "ValveType": "203FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.46,
+    "Rate": 2.552
+  },
+  {
+    "ValveType": "203P18A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.732
+  },
+  {
+    "ValveType": "208CEW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.496,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "208CHE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.16
+  },
+  {
+    "ValveType": "208CHW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.16
+  },
+  {
+    "ValveType": "20C",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.195
+  },
+  {
+    "ValveType": "210CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.676
+  },
+  {
+    "ValveType": "211CKT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.432
+  },
+  {
+    "ValveType": "211CLT",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 5.686
+  },
+  {
+    "ValveType": "213CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.387
+  },
+  {
+    "ValveType": "213CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.387
+  },
+  {
+    "ValveType": "213F",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.055
+  },
+  {
+    "ValveType": "213H2",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.388,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "213HO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.387
+  },
+  {
+    "ValveType": "213JH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.745
+  },
+  {
+    "ValveType": "214CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.739
+  },
+  {
+    "ValveType": "214CLD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "214CLDK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "214CLK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "214CLO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.714
+  },
+  {
+    "ValveType": "214CMD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.874
+  },
+  {
+    "ValveType": "214CRK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "214LD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "214LO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.712
+  },
+  {
+    "ValveType": "214R",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "215CGS",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.67
+  },
+  {
+    "ValveType": "215CJS",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.063
+  },
+  {
+    "ValveType": "215F",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 3.06
+  },
+  {
+    "ValveType": "217CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.413
+  },
+  {
+    "ValveType": "217GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.4
+  },
+  {
+    "ValveType": "218CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.207,
+    "Bemerkungen": "581510: PF",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "218CFW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.405,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "218CHE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.48
+  },
+  {
+    "ValveType": "218CHW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.48
+  },
+  {
+    "ValveType": "220CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.864
+  },
+  {
+    "ValveType": "221CLT",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 6.035
+  },
+  {
+    "ValveType": "221CMT",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 6.285
+  },
+  {
+    "ValveType": "222G",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 3.978
+  },
+  {
+    "ValveType": "222GD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 3.981
+  },
+  {
+    "ValveType": "224EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.063
+  },
+  {
+    "ValveType": "224EHO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.281
+  },
+  {
+    "ValveType": "225CGK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.802
+  },
+  {
+    "ValveType": "225CHD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.761
+  },
+  {
+    "ValveType": "225CHDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.759
+  },
+  {
+    "ValveType": "225CHK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.766
+  },
+  {
+    "ValveType": "225CHOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.755
+  },
+  {
+    "ValveType": "225H (H2)",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.763,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "225HO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.762
+  },
+  {
+    "ValveType": "225JH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.168
+  },
+  {
+    "ValveType": "229CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.41,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "229CFW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.608,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "229CJE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.18
+  },
+  {
+    "ValveType": "229CJW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.18
+  },
+  {
+    "ValveType": "229CKS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 5.782
+  },
+  {
+    "ValveType": "22A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.96,
+    "Rate": 0.052
+  },
+  {
+    "ValveType": "230CGX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.442
+  },
+  {
+    "ValveType": "234CLK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.695
+  },
+  {
+    "ValveType": "234CMD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.912
+  },
+  {
+    "ValveType": "234CMDK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.912
+  },
+  {
+    "ValveType": "234CMK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.912
+  },
+  {
+    "ValveType": "234CMO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.91
+  },
+  {
+    "ValveType": "234CMOK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.912
+  },
+  {
+    "ValveType": "234LD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 7.693
+  },
+  {
+    "ValveType": "235P18A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.732
+  },
+  {
+    "ValveType": "237GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 3.691
+  },
+  {
+    "ValveType": "239CJK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 5.775
+  },
+  {
+    "ValveType": "239CJOK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 5.775
+  },
+  {
+    "ValveType": "239J",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.38,
+    "Rate": 5.785
+  },
+  {
+    "ValveType": "23C6",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "481388: PF 470205"
+  },
+  {
+    "ValveType": "23CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "443675+477847: PF\/ SV447959: PF 494858"
+  },
+  {
+    "ValveType": "23CUS",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "494726. PF \/ 494727: PF"
+  },
+  {
+    "ValveType": "23UK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.056
+  },
+  {
+    "ValveType": "240CGX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.693
+  },
+  {
+    "ValveType": "240CJE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.6
+  },
+  {
+    "ValveType": "240CJW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.6
+  },
+  {
+    "ValveType": "242CKS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.33,
+    "Rate": 6.486
+  },
+  {
+    "ValveType": "247EH3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.281
+  },
+  {
+    "ValveType": "247EHO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.52,
+    "Rate": 2.29
+  },
+  {
+    "ValveType": "24CD",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.47,
+    "Rate": 0.107
+  },
+  {
+    "ValveType": "24CR",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.142
+  },
+  {
+    "ValveType": "24R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.47,
+    "Rate": 0.107
+  },
+  {
+    "ValveType": "24RK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.47,
+    "Rate": 0.107
+  },
+  {
+    "ValveType": "250CGX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.945
+  },
+  {
+    "ValveType": "250CJE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.98
+  },
+  {
+    "ValveType": "250CJW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.98
+  },
+  {
+    "ValveType": "251GH3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.004,
+    "Bemerkungen": "030119 keine DP"
+  },
+  {
+    "ValveType": "254CHK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.46
+  },
+  {
+    "ValveType": "254CND",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 9.428
+  },
+  {
+    "ValveType": "254CNDK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 9.428
+  },
+  {
+    "ValveType": "254CNK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 9.428
+  },
+  {
+    "ValveType": "254H",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.4,
+    "Rate": 5.484,
+    "Bemerkungen": "598201: PF"
+  },
+  {
+    "ValveType": "254H2",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.4,
+    "Rate": 5.484,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "254HO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.4,
+    "Rate": 5.484,
+    "Bemerkungen": "548886: PF"
+  },
+  {
+    "ValveType": "254JH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 5.965
+  },
+  {
+    "ValveType": "254MD",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.24,
+    "Rate": 9.209
+  },
+  {
+    "ValveType": "256CHS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.4,
+    "Rate": 5.487
+  },
+  {
+    "ValveType": "256CHS+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.737
+  },
+  {
+    "ValveType": "256CLS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 7.283
+  },
+  {
+    "ValveType": "258GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 4.022
+  },
+  {
+    "ValveType": "258P30A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.57
+  },
+  {
+    "ValveType": "260CGX",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.196
+  },
+  {
+    "ValveType": "261CGW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.937,
+    "Bemerkungen": "581507: PF \/ 581509: PF 581507",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "261CGW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.187,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "261CKE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.75
+  },
+  {
+    "ValveType": "261CKW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.75
+  },
+  {
+    "ValveType": "268CKK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.38
+  },
+  {
+    "ValveType": "268CKOK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.361
+  },
+  {
+    "ValveType": "268K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.345
+  },
+  {
+    "ValveType": "268KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.35
+  },
+  {
+    "ValveType": "268KO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.345
+  },
+  {
+    "ValveType": "269CLS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 8.07
+  },
+  {
+    "ValveType": "26A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064
+  },
+  {
+    "ValveType": "270CGX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.448
+  },
+  {
+    "ValveType": "272CKE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.24
+  },
+  {
+    "ValveType": "272CKW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.24
+  },
+  {
+    "ValveType": "274CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 4.55
+  },
+  {
+    "ValveType": "274CFHK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.51
+  },
+  {
+    "ValveType": "274CND",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.11,
+    "Rate": 10.833
+  },
+  {
+    "ValveType": "274FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.51
+  },
+  {
+    "ValveType": "275F",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.76,
+    "Rate": 7.09
+  },
+  {
+    "ValveType": "277GH3",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.69,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "280CHX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.088
+  },
+  {
+    "ValveType": "282CJW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.142,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "282CKE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.68
+  },
+  {
+    "ValveType": "282CKW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.68
+  },
+  {
+    "ValveType": "282G",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.59,
+    "Rate": 4.99
+  },
+  {
+    "ValveType": "283CMS",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.24,
+    "Rate": 8.958
+  },
+  {
+    "ValveType": "284CKK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.912
+  },
+  {
+    "ValveType": "284K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.93
+  },
+  {
+    "ValveType": "284KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.93
+  },
+  {
+    "ValveType": "28GN1",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 0.084
+  },
+  {
+    "ValveType": "29.5R",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.146
+  },
+  {
+    "ValveType": "290CHK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 6.175
+  },
+  {
+    "ValveType": "290CHX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.403
+  },
+  {
+    "ValveType": "290CJHK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.77
+  },
+  {
+    "ValveType": "290H (H2)",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 6.175,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "290HO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 6.196
+  },
+  {
+    "ValveType": "290JH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.771
+  },
+  {
+    "ValveType": "293CLE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 8.52
+  },
+  {
+    "ValveType": "293CLW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 8.52
+  },
+  {
+    "ValveType": "296CMS",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.3,
+    "Rate": 9.828
+  },
+  {
+    "ValveType": "29C1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.076
+  },
+  {
+    "ValveType": "29C8",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08
+  },
+  {
+    "ValveType": "29CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08,
+    "Bemerkungen": "494535: PF \/ 494536: PF"
+  },
+  {
+    "ValveType": "29R",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.146
+  },
+  {
+    "ValveType": "29U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08,
+    "Bemerkungen": "410973: PF"
+  },
+  {
+    "ValveType": "29UK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.08
+  },
+  {
+    "ValveType": "300CHX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.717
+  },
+  {
+    "ValveType": "302CKK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 8.32
+  },
+  {
+    "ValveType": "302K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 8.32
+  },
+  {
+    "ValveType": "302KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 8.32
+  },
+  {
+    "ValveType": "302KO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.14,
+    "Rate": 8.32
+  },
+  {
+    "ValveType": "304CLE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 9.07
+  },
+  {
+    "ValveType": "304CLW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 9.07
+  },
+  {
+    "ValveType": "30C",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.079
+  },
+  {
+    "ValveType": "30R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.36,
+    "Rate": 0.135,
+    "Bemerkungen": "SV 594931: Vorrichtung!"
+  },
+  {
+    "ValveType": "30RO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.36,
+    "Rate": 0.135
+  },
+  {
+    "ValveType": "310CHX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.031
+  },
+  {
+    "ValveType": "310CNS",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.27,
+    "Rate": 10.798
+  },
+  {
+    "ValveType": "314CHW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.307,
+    "Bemerkungen": "581508: PF",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "314CHW+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.617,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "314CJW2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 8.18,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "314CLE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 9.58
+  },
+  {
+    "ValveType": "314CLW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 9.58
+  },
+  {
+    "ValveType": "318CKK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.835
+  },
+  {
+    "ValveType": "318CKOK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.823
+  },
+  {
+    "ValveType": "318K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.836
+  },
+  {
+    "ValveType": "318KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.836
+  },
+  {
+    "ValveType": "321FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.095
+  },
+  {
+    "ValveType": "321FHO",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.72,
+    "Rate": 4.095
+  },
+  {
+    "ValveType": "323G",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.51,
+    "Rate": 5.738
+  },
+  {
+    "ValveType": "324CHK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.31,
+    "Rate": 6.922
+  },
+  {
+    "ValveType": "324H (H2)",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.31,
+    "Rate": 6.923,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "324JH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 7.532
+  },
+  {
+    "ValveType": "32A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.6,
+    "Rate": 0.083
+  },
+  {
+    "ValveType": "334K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 9.689
+  },
+  {
+    "ValveType": "334KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 9.689
+  },
+  {
+    "ValveType": "359G",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.391
+  },
+  {
+    "ValveType": "35CD1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.146
+  },
+  {
+    "ValveType": "35CD10",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165
+  },
+  {
+    "ValveType": "35CDO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "494439+494440: PF \/ 496720+498391+499745: PF 495596"
+  },
+  {
+    "ValveType": "35R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.47,
+    "Rate": 0.105
+  },
+  {
+    "ValveType": "35U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165,
+    "Bemerkungen": "495301: PF 494439, 422090: PF 35CU 495921"
+  },
+  {
+    "ValveType": "35UK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165,
+    "Bemerkungen": "SV 447958: PF + 495921"
+  },
+  {
+    "ValveType": "362FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 4.567
+  },
+  {
+    "ValveType": "365K",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 10.236
+  },
+  {
+    "ValveType": "365KG",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 10.236
+  },
+  {
+    "ValveType": "36C",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.162
+  },
+  {
+    "ValveType": "36GN1",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 1.78,
+    "Rate": 0.14
+  },
+  {
+    "ValveType": "371H (H2)",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 7.908,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "371JH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.642
+  },
+  {
+    "ValveType": "37CRLK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.28,
+    "Rate": 0.181
+  },
+  {
+    "ValveType": "37DD",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.47,
+    "Rate": 0.107
+  },
+  {
+    "ValveType": "37R",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184
+  },
+  {
+    "ValveType": "37RL",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184
+  },
+  {
+    "ValveType": "37RLO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184,
+    "Bemerkungen": "495563: PF"
+  },
+  {
+    "ValveType": "37RLX",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184,
+    "Bemerkungen": "485640: PF"
+  },
+  {
+    "ValveType": "382CLK",
+    "Pressure": " 5\/1",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 12.675
+  },
+  {
+    "ValveType": "382L",
+    "Pressure": " 5\/1",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 12.675
+  },
+  {
+    "ValveType": "382LG",
+    "Pressure": " 5\/1",
+    "Vessel": 10,
+    "Time": 0.21,
+    "Rate": 12.675
+  },
+  {
+    "ValveType": "38A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.49,
+    "Rate": 0.101
+  },
+  {
+    "ValveType": "38CDOK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.179
+  },
+  {
+    "ValveType": "38CDP",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183
+  },
+  {
+    "ValveType": "38DD",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183,
+    "Bemerkungen": "WA2690+WA3230+WA3233: PF"
+  },
+  {
+    "ValveType": "38DO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183
+  },
+  {
+    "ValveType": "39D",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.195
+  },
+  {
+    "ValveType": "402G",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.57,
+    "Rate": 5.167
+  },
+  {
+    "ValveType": "404FH3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.176
+  },
+  {
+    "ValveType": "404FHO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 5.176,
+    "Bemerkungen": "482822: PF 471964 \/ 435769: PF + 471964"
+  },
+  {
+    "ValveType": "413H (H2)",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 8.814,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "419KH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.2,
+    "Rate": 11.085
+  },
+  {
+    "ValveType": "41CD1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.122
+  },
+  {
+    "ValveType": "41CD10",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183
+  },
+  {
+    "ValveType": "41CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183,
+    "Bemerkungen": "495910+495911+497515+598464+SV448003: PF"
+  },
+  {
+    "ValveType": "41U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184,
+    "Bemerkungen": "498995: PF 41CU 497515"
+  },
+  {
+    "ValveType": "42CE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42CRLK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.27
+  },
+  {
+    "ValveType": "42CRLXK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42D",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.212
+  },
+  {
+    "ValveType": "42DX",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.271
+  },
+  {
+    "ValveType": "42R",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.35,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42RA",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.35,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42RK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42RL",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.272
+  },
+  {
+    "ValveType": "42RLO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.22,
+    "Rate": 0.222
+  },
+  {
+    "ValveType": "42RLX",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.272
+  },
+  {
+    "ValveType": "42RS",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.73,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "42RXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.73,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "45CEK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.44,
+    "Rate": 0.266
+  },
+  {
+    "ValveType": "45ED",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.44,
+    "Rate": 0.268
+  },
+  {
+    "ValveType": "45EO",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.44,
+    "Rate": 0.268
+  },
+  {
+    "ValveType": "464H (H2)",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 9.799,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "47CE3",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.29,
+    "Rate": 0.403
+  },
+  {
+    "ValveType": "48CD1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.222
+  },
+  {
+    "ValveType": "48CD10",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.22,
+    "Rate": 0.224
+  },
+  {
+    "ValveType": "48CD12",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.23,
+    "Rate": 0.22
+  },
+  {
+    "ValveType": "48CDD",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 1.82,
+    "Rate": 0.137
+  },
+  {
+    "ValveType": "48CDE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.23
+  },
+  {
+    "ValveType": "48CDO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.23,
+    "Rate": 0.22
+  },
+  {
+    "ValveType": "48CDW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.23
+  },
+  {
+    "ValveType": "48CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.23,
+    "Rate": 0.215,
+    "Bemerkungen": "498204: PF \/ 498205: PF 498204"
+  },
+  {
+    "ValveType": "48U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.22,
+    "Rate": 0.22
+  },
+  {
+    "ValveType": "496GH3",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 8.039
+  },
+  {
+    "ValveType": "49D",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 0.243
+  },
+  {
+    "ValveType": "49DO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 0.243
+  },
+  {
+    "ValveType": "50A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.37,
+    "Rate": 0.135
+  },
+  {
+    "ValveType": "50D2",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.49,
+    "Rate": 0.244
+  },
+  {
+    "ValveType": "51CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.229
+  },
+  {
+    "ValveType": "51CDPK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.229
+  },
+  {
+    "ValveType": "52CE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.353
+  },
+  {
+    "ValveType": "52CE3",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.56,
+    "Rate": 0.446
+  },
+  {
+    "ValveType": "52CED",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.379
+  },
+  {
+    "ValveType": "52CEDK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.373
+  },
+  {
+    "ValveType": "52CEK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.377,
+    "Bemerkungen": "599930: PF"
+  },
+  {
+    "ValveType": "52CEO",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.379
+  },
+  {
+    "ValveType": "52CRLK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.353
+  },
+  {
+    "ValveType": "52ED",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.353
+  },
+  {
+    "ValveType": "52R",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.26,
+    "Rate": 0.445
+  },
+  {
+    "ValveType": "52RA",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 0.56
+  },
+  {
+    "ValveType": "52RK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.26,
+    "Rate": 0.446
+  },
+  {
+    "ValveType": "52RL",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.353
+  },
+  {
+    "ValveType": "52RLO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.88,
+    "Rate": 0.281
+  },
+  {
+    "ValveType": "52RLX",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.353,
+    "Bemerkungen": "497660+WA0538: PF"
+  },
+  {
+    "ValveType": "52RS",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.56,
+    "Rate": 0.446
+  },
+  {
+    "ValveType": "52RX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.56,
+    "Rate": 0.445
+  },
+  {
+    "ValveType": "52RXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.56,
+    "Rate": 0.444
+  },
+  {
+    "ValveType": "53ED",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.366
+  },
+  {
+    "ValveType": "54C",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165
+  },
+  {
+    "ValveType": "54CDD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 2.45,
+    "Rate": 0.241
+  },
+  {
+    "ValveType": "54CEK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 0.494
+  },
+  {
+    "ValveType": "54E",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 0.493
+  },
+  {
+    "ValveType": "568GH3",
+    "Pressure": " 4\/1",
+    "Vessel": 150,
+    "Time": 3.63,
+    "Rate": 8.956
+  },
+  {
+    "ValveType": "57CD1",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 1.14,
+    "Rate": 0.219
+  },
+  {
+    "ValveType": "57CU",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.273,
+    "Bemerkungen": "598463: PF"
+  },
+  {
+    "ValveType": "57U",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.44,
+    "Rate": 0.27
+  },
+  {
+    "ValveType": "58CDE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.29
+  },
+  {
+    "ValveType": "58CDW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.29
+  },
+  {
+    "ValveType": "58CE",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.68,
+    "Rate": 0.366
+  },
+  {
+    "ValveType": "58CEM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.5
+  },
+  {
+    "ValveType": "60A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.167
+  },
+  {
+    "ValveType": "60CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.263
+  },
+  {
+    "ValveType": "60CRLK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 0.598
+  },
+  {
+    "ValveType": "60E",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 0.564
+  },
+  {
+    "ValveType": "60R",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.646
+  },
+  {
+    "ValveType": "60RK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.645
+  },
+  {
+    "ValveType": "60RL",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 0.599,
+    "Bemerkungen": "619183: PF"
+  },
+  {
+    "ValveType": "60RLO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 0.568
+  },
+  {
+    "ValveType": "60RLX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 0.599,
+    "Bemerkungen": "152797: PF"
+  },
+  {
+    "ValveType": "60ROK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.646
+  },
+  {
+    "ValveType": "60RX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.645
+  },
+  {
+    "ValveType": "60RXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.647
+  },
+  {
+    "ValveType": "61CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.312
+  },
+  {
+    "ValveType": "61CE",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.6,
+    "Rate": 0.419
+  },
+  {
+    "ValveType": "61CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 0.605
+  },
+  {
+    "ValveType": "61FD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 0.603
+  },
+  {
+    "ValveType": "62CF",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.64
+  },
+  {
+    "ValveType": "62CFY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78
+  },
+  {
+    "ValveType": "62FLX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.755
+  },
+  {
+    "ValveType": "62FLY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 0.756
+  },
+  {
+    "ValveType": "64CET",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 0.55
+  },
+  {
+    "ValveType": "64FD",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.615
+  },
+  {
+    "ValveType": "65CE10",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 0.563
+  },
+  {
+    "ValveType": "65CED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.53,
+    "Rate": 0.468
+  },
+  {
+    "ValveType": "65CEDK",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.552
+  },
+  {
+    "ValveType": "65CEK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.53,
+    "Rate": 0.468
+  },
+  {
+    "ValveType": "65D2",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.38,
+    "Rate": 0.313
+  },
+  {
+    "ValveType": "66RL",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.644
+  },
+  {
+    "ValveType": "67CES",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.54,
+    "Rate": 0.466
+  },
+  {
+    "ValveType": "67CFK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.639
+  },
+  {
+    "ValveType": "68CEM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.625
+  },
+  {
+    "ValveType": "69CDE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.36
+  },
+  {
+    "ValveType": "69CDW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.36
+  },
+  {
+    "ValveType": "70CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.326
+  },
+  {
+    "ValveType": "70CE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.487
+  },
+  {
+    "ValveType": "70CEDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.627
+  },
+  {
+    "ValveType": "70CEXK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.668
+  },
+  {
+    "ValveType": "70CRLK",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.731
+  },
+  {
+    "ValveType": "70E",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.88,
+    "Rate": 0.64
+  },
+  {
+    "ValveType": 7000,
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.487
+  },
+  {
+    "ValveType": "70ED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.627
+  },
+  {
+    "ValveType": "70EO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.39,
+    "Rate": 0.626
+  },
+  {
+    "ValveType": "70ER",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.37,
+    "Rate": 0.668
+  },
+  {
+    "ValveType": "70R",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 0.835
+  },
+  {
+    "ValveType": "70RK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 0.835
+  },
+  {
+    "ValveType": "70RL",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.731
+  },
+  {
+    "ValveType": "70RLO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.731
+  },
+  {
+    "ValveType": "70RLX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.731
+  },
+  {
+    "ValveType": "72A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.25,
+    "Rate": 0.2
+  },
+  {
+    "ValveType": "72GN4",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.24,
+    "Rate": 1.04
+  },
+  {
+    "ValveType": "73CGY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 1.073
+  },
+  {
+    "ValveType": "73FY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 0.981
+  },
+  {
+    "ValveType": "744GH3",
+    "Pressure": " 4\/1",
+    "Vessel": 200,
+    "Time": 3.7,
+    "Rate": 11.729
+  },
+  {
+    "ValveType": "74CFD",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78
+  },
+  {
+    "ValveType": "74CFDK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78
+  },
+  {
+    "ValveType": "74CFK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.814
+  },
+  {
+    "ValveType": "74CFO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78
+  },
+  {
+    "ValveType": "74CFOK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78
+  },
+  {
+    "ValveType": "75CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.379
+  },
+  {
+    "ValveType": "75CFT",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.777
+  },
+  {
+    "ValveType": "77CEOT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.585
+  },
+  {
+    "ValveType": "77CET",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.579
+  },
+  {
+    "ValveType": "79CEDK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.739
+  },
+  {
+    "ValveType": "79CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.974
+  },
+  {
+    "ValveType": "79CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.875,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "79CRLK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.857
+  },
+  {
+    "ValveType": "79CROK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.858
+  },
+  {
+    "ValveType": "79E",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.766
+  },
+  {
+    "ValveType": "79ED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.737
+  },
+  {
+    "ValveType": "79EO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.737
+  },
+  {
+    "ValveType": "79R",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.975
+  },
+  {
+    "ValveType": "79RL",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 0.857
+  },
+  {
+    "ValveType": "79RLO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.78,
+    "Rate": 0.763
+  },
+  {
+    "ValveType": "79RLX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 0.857
+  },
+  {
+    "ValveType": "80CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.66
+  },
+  {
+    "ValveType": "80CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.389
+  },
+  {
+    "ValveType": "80CE13",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.35,
+    "Rate": 0.705
+  },
+  {
+    "ValveType": "80CED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.35,
+    "Rate": 0.705
+  },
+  {
+    "ValveType": "80CEDK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.35,
+    "Rate": 0.705
+  },
+  {
+    "ValveType": "80CES",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 0.695
+  },
+  {
+    "ValveType": "80CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.66
+  },
+  {
+    "ValveType": "80CGY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.186
+  },
+  {
+    "ValveType": "80D2",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.396
+  },
+  {
+    "ValveType": "80DO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.61,
+    "Rate": 0.408
+  },
+  {
+    "ValveType": "80FY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 1.084
+  },
+  {
+    "ValveType": "80GS2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.84,
+    "Rate": 0.704
+  },
+  {
+    "ValveType": "80R10",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.617
+  },
+  {
+    "ValveType": "82GN3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.66,
+    "Rate": 0.888
+  },
+  {
+    "ValveType": "85CFT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.817
+  },
+  {
+    "ValveType": "87CF13",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 1.04
+  },
+  {
+    "ValveType": "87CF13K",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.042
+  },
+  {
+    "ValveType": "87CFD",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.948
+  },
+  {
+    "ValveType": "87CFDK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.95
+  },
+  {
+    "ValveType": "87CFK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.948
+  },
+  {
+    "ValveType": "87CFO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.947
+  },
+  {
+    "ValveType": "87CHY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.56
+  },
+  {
+    "ValveType": "87GY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.4,
+    "Rate": 1.475
+  },
+  {
+    "ValveType": "88CEDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.824
+  },
+  {
+    "ValveType": "88CEK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.828
+  },
+  {
+    "ValveType": "88CFT",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 1.076
+  },
+  {
+    "ValveType": "88CG",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.19,
+    "Rate": 1.316
+  },
+  {
+    "ValveType": "88CG2",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 1.268
+  },
+  {
+    "ValveType": "88CGD",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 1.268
+  },
+  {
+    "ValveType": "88CGDK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 1.268
+  },
+  {
+    "ValveType": "88CGK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 1.267
+  },
+  {
+    "ValveType": "88CRK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.186
+  },
+  {
+    "ValveType": "88CRXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.184
+  },
+  {
+    "ValveType": "88ED",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.3,
+    "Rate": 0.824
+  },
+  {
+    "ValveType": "88EH3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.823
+  },
+  {
+    "ValveType": "88EO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.72,
+    "Rate": 0.823
+  },
+  {
+    "ValveType": "88L",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 1.084
+  },
+  {
+    "ValveType": "88R",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.188
+  },
+  {
+    "ValveType": "88RO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.186
+  },
+  {
+    "ValveType": "88RX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.188
+  },
+  {
+    "ValveType": "88RY",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.188
+  },
+  {
+    "ValveType": "89CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.136
+  },
+  {
+    "ValveType": "90A",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.2,
+    "Rate": 0.255
+  },
+  {
+    "ValveType": "90CDP",
+    "Pressure": "_",
+    "Vessel": 10,
+    "Time": 0,
+    "Rate": 0.465
+  },
+  {
+    "ValveType": "90CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.452
+  },
+  {
+    "ValveType": "90CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.79
+  },
+  {
+    "ValveType": "90CEW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.79
+  },
+  {
+    "ValveType": "90CFT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.839
+  },
+  {
+    "ValveType": "90CFTO",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.839
+  },
+  {
+    "ValveType": "90CFW",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.1
+  },
+  {
+    "ValveType": "90R10",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.766
+  },
+  {
+    "ValveType": "92CFD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.258
+  },
+  {
+    "ValveType": "92CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.255
+  },
+  {
+    "ValveType": "92CFK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.256
+  },
+  {
+    "ValveType": "92CFO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.257
+  },
+  {
+    "ValveType": "92CFOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.255
+  },
+  {
+    "ValveType": "92CGD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.43,
+    "Rate": 1.385
+  },
+  {
+    "ValveType": "92CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.43,
+    "Rate": 1.384
+  },
+  {
+    "ValveType": "92CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.43,
+    "Rate": 1.384
+  },
+  {
+    "ValveType": "92FD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.258
+  },
+  {
+    "ValveType": "92FO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.255
+  },
+  {
+    "ValveType": "92GD",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.43,
+    "Rate": 1.379
+  },
+  {
+    "ValveType": "94CFS",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 0.982
+  },
+  {
+    "ValveType": "95CED",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.7,
+    "Rate": 0.85
+  },
+  {
+    "ValveType": "95CEK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.7,
+    "Rate": 0.847
+  },
+  {
+    "ValveType": "95CHY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.725
+  },
+  {
+    "ValveType": "95D2",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.24,
+    "Rate": 0.488
+  },
+  {
+    "ValveType": "95DO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.51,
+    "Rate": 0.487
+  },
+  {
+    "ValveType": "95GY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.627
+  },
+  {
+    "ValveType": "96CED",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.846
+  },
+  {
+    "ValveType": "98CG2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.41,
+    "Rate": 1.443
+  },
+  {
+    "ValveType": "98CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.324
+  },
+  {
+    "ValveType": "98CRXK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.322
+  },
+  {
+    "ValveType": "98L",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 1.389
+  },
+  {
+    "ValveType": "98R",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.322
+  },
+  {
+    "ValveType": "98RX",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.322
+  },
+  {
+    "ValveType": "98RY",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.322
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "416338: PF"
+  },
+  {
+    "ValveType": "A 65S",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 0.65
+  },
+  {
+    "ValveType": "A136S",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.25,
+    "Rate": 2.35
+  },
+  {
+    "ValveType": "A144",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 2.535
+  },
+  {
+    "ValveType": "B114\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 1.547
+  },
+  {
+    "ValveType": "B132\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.182
+  },
+  {
+    "ValveType": "B132\/4F",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.27,
+    "Rate": 2.182
+  },
+  {
+    "ValveType": "B154\/5",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.22
+  },
+  {
+    "ValveType": "B174\/4S",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.39,
+    "Rate": 2.991
+  },
+  {
+    "ValveType": "B192\/5S",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.3,
+    "Rate": 3.922
+  },
+  {
+    "ValveType": "DIA10\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.024,
+    "Bemerkungen": "492324: PF 410700 \/ 492325: PF 410703"
+  },
+  {
+    "ValveType": "DIA100\/3",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.19,
+    "Rate": 1.34
+  },
+  {
+    "ValveType": "DIA104\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 1.1,
+    "Rate": 1.072
+  },
+  {
+    "ValveType": "DIA104\/4",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.79
+  },
+  {
+    "ValveType": "DIA105\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.092,
+    "Bemerkungen": "DV 138980: PF"
+  },
+  {
+    "ValveType": "DIA105\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.472,
+    "Bemerkungen": "DV 473954: PF 139120"
+  },
+  {
+    "ValveType": "DIA106\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.315
+  },
+  {
+    "ValveType": "DIA106\/5",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 1.875
+  },
+  {
+    "ValveType": "DIA110\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.33,
+    "Rate": 1.79
+  },
+  {
+    "ValveType": "DIA113\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.635
+  },
+  {
+    "ValveType": "DIA115\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.621,
+    "Bemerkungen": "138970: PF 02.7326"
+  },
+  {
+    "ValveType": "DIA116\/3K",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.36,
+    "Rate": 1.635
+  },
+  {
+    "ValveType": "DIA119\/4",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.9
+  },
+  {
+    "ValveType": "DIA12\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.033
+  },
+  {
+    "ValveType": "DIA120,65\/3",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 1.31
+  },
+  {
+    "ValveType": "DIA125\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.606
+  },
+  {
+    "ValveType": "DIA125\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.121
+  },
+  {
+    "ValveType": "DIA130\/5",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.23,
+    "Rate": 2.548
+  },
+  {
+    "ValveType": "DIA136\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.24,
+    "Rate": 2.424
+  },
+  {
+    "ValveType": "DIA136\/5",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.22,
+    "Rate": 2.754
+  },
+  {
+    "ValveType": "DIA14.8\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.04
+  },
+  {
+    "ValveType": "DIA140\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 2.331
+  },
+  {
+    "ValveType": "DIA140\/4K",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.331
+  },
+  {
+    "ValveType": "DIA141\/5",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.709
+  },
+  {
+    "ValveType": "DIA144\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.577
+  },
+  {
+    "ValveType": "DIA145\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.79
+  },
+  {
+    "ValveType": "DIA155\/4",
+    "Pressure": "_",
+    "Vessel": 10,
+    "Time": 0,
+    "Rate": 2.466
+  },
+  {
+    "ValveType": "DIA156\/5K",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.341
+  },
+  {
+    "ValveType": "DIA156\/6",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 3.675
+  },
+  {
+    "ValveType": "DIA17\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.08,
+    "Bemerkungen": "103202: PF"
+  },
+  {
+    "ValveType": "DIA176\/7",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.25,
+    "Rate": 4.685
+  },
+  {
+    "ValveType": "DIA180\/2",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.8,
+    "Rate": 1.49
+  },
+  {
+    "ValveType": "DIA180\/4",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.8
+  },
+  {
+    "ValveType": "DIA188\/6",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 4.173
+  },
+  {
+    "ValveType": "DIA189\/5",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.33,
+    "Rate": 3.61
+  },
+  {
+    "ValveType": "DIA19\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.052
+  },
+  {
+    "ValveType": "DIA196\/8",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.2,
+    "Rate": 5.826
+  },
+  {
+    "ValveType": "DIA200\/5",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.55
+  },
+  {
+    "ValveType": "DIA201\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.342
+  },
+  {
+    "ValveType": "DIA210\/4",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.38
+  },
+  {
+    "ValveType": "DIA212\/7",
+    "Pressure": "_",
+    "Vessel": 10,
+    "Time": 0,
+    "Rate": 5.71
+  },
+  {
+    "ValveType": "DIA215.4\/6",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.889
+  },
+  {
+    "ValveType": "DIA215\/5",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.05
+  },
+  {
+    "ValveType": "DIA22\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.097
+  },
+  {
+    "ValveType": "DIA23.5\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.73,
+    "Rate": 0.067
+  },
+  {
+    "ValveType": "DIA234\/6",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 3.651
+  },
+  {
+    "ValveType": "DIA236\/8",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.033
+  },
+  {
+    "ValveType": "DIA24\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.24
+  },
+  {
+    "ValveType": "DIA25\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.39,
+    "Rate": 0.13
+  },
+  {
+    "ValveType": "DIA258\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.53
+  },
+  {
+    "ValveType": "DIA26\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.07
+  },
+  {
+    "ValveType": "DIA266\/9",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.33,
+    "Rate": 8.877
+  },
+  {
+    "ValveType": "DIA27\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.43,
+    "Rate": 0.111
+  },
+  {
+    "ValveType": "DIA28\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.077
+  },
+  {
+    "ValveType": "DIA29.5\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.146
+  },
+  {
+    "ValveType": "DIA29\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.6,
+    "Rate": 0.082
+  },
+  {
+    "ValveType": "DIA310\/7",
+    "Pressure": " 4\/2",
+    "Vessel": 25,
+    "Time": 0.36,
+    "Rate": 8.297
+  },
+  {
+    "ValveType": "DIA34\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.104
+  },
+  {
+    "ValveType": "DIA36\/1",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.186
+  },
+  {
+    "ValveType": "DIA38\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.107
+  },
+  {
+    "ValveType": "DIA39\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.274
+  },
+  {
+    "ValveType": "DIA40\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.186
+  },
+  {
+    "ValveType": "DIA42\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "DIA43\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.205
+  },
+  {
+    "ValveType": "DIA45\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.201
+  },
+  {
+    "ValveType": "DIA46\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.322
+  },
+  {
+    "ValveType": "DIA48\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.195
+  },
+  {
+    "ValveType": "DIA50\/1",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 1.72,
+    "Rate": 0.45
+  },
+  {
+    "ValveType": "DIA52\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.368
+  },
+  {
+    "ValveType": "DIA54\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.568
+  },
+  {
+    "ValveType": "DIA64.5\/3",
+    "Pressure": "_",
+    "Vessel": 5,
+    "Time": 0,
+    "Rate": 0.675
+  },
+  {
+    "ValveType": "DIA65\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.528
+  },
+  {
+    "ValveType": "DIA68\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.487,
+    "Bemerkungen": "DV 419657: PF"
+  },
+  {
+    "ValveType": "DIA70\/2",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.38,
+    "Rate": 0.656
+  },
+  {
+    "ValveType": "DIA72\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.611
+  },
+  {
+    "ValveType": "DIA72\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.785
+  },
+  {
+    "ValveType": "DIA72\/4",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.042
+  },
+  {
+    "ValveType": "DIA74\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.806
+  },
+  {
+    "ValveType": "DIA8,4\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.022,
+    "Bemerkungen": "137080: PF"
+  },
+  {
+    "ValveType": "DIA8,7\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.023,
+    "Bemerkungen": "137086: PF \/ 488184: PF 137086"
+  },
+  {
+    "ValveType": "DIA81\/2",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 0.572
+  },
+  {
+    "ValveType": "DIA86,5\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.14
+  },
+  {
+    "ValveType": "DIA86\/2",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.83,
+    "Rate": 0.712
+  },
+  {
+    "ValveType": "DIA89\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.461,
+    "Bemerkungen": "DV 483541: PF"
+  },
+  {
+    "ValveType": "DIA9,5\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021
+  },
+  {
+    "ValveType": "DIA90\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.251
+  },
+  {
+    "ValveType": "DIA94\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.037
+  },
+  {
+    "ValveType": "DIA96\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.024
+  },
+  {
+    "ValveType": "DIA96\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.27
+  },
+  {
+    "ValveType": "DIA98\/3",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.5,
+    "Rate": 1.178
+  },
+  {
+    "ValveType": "PLUG100B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.31,
+    "Bemerkungen": "Prüfkraft 7000N"
+  },
+  {
+    "ValveType": "PLUG125B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.383,
+    "Bemerkungen": "Prüfkraft 14000N"
+  },
+  {
+    "ValveType": "PLUG160B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.49,
+    "Bemerkungen": "Prüfkraft 14000N"
+  },
+  {
+    "ValveType": "PLUG30B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.092,
+    "Bemerkungen": "Prüfkraft 3500N",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "PLUG35B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.103,
+    "Bemerkungen": "Prüfkraft 3500N"
+  },
+  {
+    "ValveType": "PLUG40B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.122,
+    "Bemerkungen": "Prüfkraft 3500N"
+  },
+  {
+    "ValveType": "PLUG50B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.153,
+    "Bemerkungen": "Prüfkraft 3500N",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "PLUG55",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.168,
+    "Bemerkungen": "Prüfkraft 5000N"
+  },
+  {
+    "ValveType": "PLUG60",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.184,
+    "Bemerkungen": "Prüfkraft 5000N"
+  },
+  {
+    "ValveType": "PLUG65B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.198,
+    "Bemerkungen": "Prüfkraft 5000N"
+  },
+  {
+    "ValveType": "PLUG70",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.214,
+    "Bemerkungen": "Prüfkraft 7000N"
+  },
+  {
+    "ValveType": "PLUG80B",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.25,
+    "Bemerkungen": "Prüfkraft 7000N"
+  },
+  {
+    "ValveType": "RV1-15",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.052,
+    "Bemerkungen": "400434: PF"
+  },
+  {
+    "ValveType": "RV1-20",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.13
+  },
+  {
+    "ValveType": "RV1-25",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.225
+  },
+  {
+    "ValveType": "RV1-32",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.281
+  },
+  {
+    "ValveType": "RV1-40",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.568
+  },
+  {
+    "ValveType": "RV1-50",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.763
+  },
+  {
+    "ValveType": "S53\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.487
+  },
+  {
+    "ValveType": "S75\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.05
+  },
+  {
+    "ValveType": "224FH3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.775
+  },
+  {
+    "ValveType": "218FH3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.738
+  },
+  {
+    "ValveType": "90CT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.838
+  },
+  {
+    "ValveType": "148CT",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.606
+  },
+  {
+    "ValveType": "42ROK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "DIA6\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.007
+  },
+  {
+    "ValveType": "164RO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.29,
+    "Rate": 4.046
+  },
+  {
+    "ValveType": "PLUG50U",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.153,
+    "Bemerkungen": "Prüfkraft 3500N"
+  },
+  {
+    "ValveType": "PLUG65U",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.198,
+    "Bemerkungen": "Prüfkraft 5000N"
+  },
+  {
+    "ValveType": "197CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.472
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "SV 479080: Vorrichtung!"
+  },
+  {
+    "ValveType": "186CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.31,
+    "Bemerkungen": "186CFE 590738 \/ WA0655: PF 194CGD 572249",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "101CDE+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.642,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "101CDE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.55
+  },
+  {
+    "ValveType": "DIA34",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.263
+  },
+  {
+    "ValveType": "DIA49",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.517
+  },
+  {
+    "ValveType": "119CEDK+PLUG",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.079
+  },
+  {
+    "ValveType": "174CJOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.3
+  },
+  {
+    "ValveType": "119CEDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.987
+  },
+  {
+    "ValveType": "165CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.23
+  },
+  {
+    "ValveType": "52CRLXK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.445
+  },
+  {
+    "ValveType": "60CRLXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.42,
+    "Rate": 0.646
+  },
+  {
+    "ValveType": "88CROK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.184
+  },
+  {
+    "ValveType": "52ROK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.26,
+    "Rate": 0.446
+  },
+  {
+    "ValveType": "13A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.035,
+    "Bemerkungen": "496143: PF 410703 \/ 495060+495061: PF 478358"
+  },
+  {
+    "ValveType": "79RXK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 0.975
+  },
+  {
+    "ValveType": "19A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.049
+  },
+  {
+    "ValveType": "110CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 1.885
+  },
+  {
+    "ValveType": "124CGK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.759
+  },
+  {
+    "ValveType": "254CNO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.23,
+    "Rate": 9.428
+  },
+  {
+    "ValveType": "DIA15\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.014,
+    "Bemerkungen": "0-466723: PF (0,014=1\/3-Leckrate!!!)",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "334CKK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 9.689
+  },
+  {
+    "ValveType": "52EO",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.34,
+    "Rate": 0.357
+  },
+  {
+    "ValveType": "53EO",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.366,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "588K",
+    "Pressure": " 5\/4",
+    "Vessel": 200,
+    "Time": 0.92,
+    "Rate": 12.418,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "88R4",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.3,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "110CEDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.151,
+    "Bemerkungen": "110CEK 577255",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "133CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.292,
+    "Bemerkungen": "592736: PF \/ WA3556: 134CGD 577675",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "496GHO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 8.039,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "DV47",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.48,
+    "Bemerkungen": "476171: PF",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "24C",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.065,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "251G",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.51,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "PLUG30U",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.092,
+    "Bemerkungen": "Prüfkraft 3500N",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "PLUG40U",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.122,
+    "Bemerkungen": "Prüfkraft 3500N",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "PLUG35U",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.103,
+    "Bemerkungen": "Prüfkraft 3500N",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "106P06A1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.911,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "164CKDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.168,
+    "Bemerkungen": "486383: PF 164CJD\/575685",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "145CJDK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.37,
+    "Rate": 3.208,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "45CEDK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.44,
+    "Rate": 0.266,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "61CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.2,
+    "Rate": 0.605,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "79EDO",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.737,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "88EDO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.72,
+    "Rate": 0.823,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "213H",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.27,
+    "Rate": 4.388,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "102CFTO",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.121,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "194CKOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.22,
+    "Rate": 5.441,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "154CJOK",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.35,
+    "Rate": 3.432,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "154FO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.28,
+    "Rate": 2.089,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "55CDP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.219,
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "130CEP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0,
+    "Bemerkungen": "483517+483522 keine DP!",
+    "modifiedBy": "stu"
+  },
+  {
+    "ValveType": "154HO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.36,
+    "Rate": 3.276
+  },
+  {
+    "ValveType": "157CGOK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.26,
+    "Rate": 2.308
+  },
+  {
+    "ValveType": "254CHOK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.46
+  },
+  {
+    "ValveType": "214CLOK",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.32,
+    "Rate": 6.713
+  },
+  {
+    "ValveType": "42CRK",
+    "Pressure": " 4\/2",
+    "Vessel": 1,
+    "Time": 0.35,
+    "Rate": 0.341
+  },
+  {
+    "ValveType": "176CDE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.009,
+    "Bemerkungen": "484149: PF 484060"
+  },
+  {
+    "ValveType": "147CHTO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.47,
+    "Rate": 2.497
+  },
+  {
+    "ValveType": "7A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.015,
+    "Bemerkungen": "144287: PF \/ 494728: PF+ 446799 (9A)"
+  },
+  {
+    "ValveType": "DIA13,4\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.035
+  },
+  {
+    "ValveType": "179CJTO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.31,
+    "Rate": 3.872
+  },
+  {
+    "ValveType": "362FHO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.26,
+    "Rate": 4.567
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "416341: PF 416338"
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "446799: PF"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "SV496128+496136+499747+WA0901: PF 478631 \/ 495819: PF+478631"
+  },
+  {
+    "ValveType": "23CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "494858+495569+495572+447889: PF"
+  },
+  {
+    "ValveType": "197CGE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.37
+  },
+  {
+    "ValveType": "DIA89\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.461,
+    "Bemerkungen": "DV 483579: PF 483541"
+  },
+  {
+    "ValveType": "DIA89\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.461,
+    "Bemerkungen": "DV 139730: PF 483541"
+  },
+  {
+    "ValveType": "92FDO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.47,
+    "Rate": 1.258
+  },
+  {
+    "ValveType": "274FHO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.51
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "455966: PF"
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "455969: PF"
+  },
+  {
+    "ValveType": "165ER2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.769,
+    "Bemerkungen": "408843: PF"
+  },
+  {
+    "ValveType": "4A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.012
+  },
+  {
+    "ValveType": "17\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.08
+  },
+  {
+    "ValveType": "DIA11,5\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.031
+  },
+  {
+    "ValveType": "DIA18",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.041,
+    "Bemerkungen": "SV 136841: PF 112615"
+  },
+  {
+    "ValveType": "DIA343\/7",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 9.745
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "SV 590473: Vorrichtung!"
+  },
+  {
+    "ValveType": "170CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.926,
+    "Bemerkungen": "489153: PF 165CEE\/479080"
+  },
+  {
+    "ValveType": "88CRX",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.21,
+    "Rate": 1.184
+  },
+  {
+    "ValveType": "62CFYK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.756
+  },
+  {
+    "ValveType": "230CFX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.969
+  },
+  {
+    "ValveType": "154CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.034
+  },
+  {
+    "ValveType": "DIA126\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.288
+  },
+  {
+    "ValveType": "254MO",
+    "Pressure": " 4\/1",
+    "Vessel": 10,
+    "Time": 0.24,
+    "Rate": 9.209
+  },
+  {
+    "ValveType": "157CED",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.535,
+    "Bemerkungen": "Doppeldeck"
+  },
+  {
+    "ValveType": "214CFD",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.874,
+    "Bemerkungen": "Doppeldeck"
+  },
+  {
+    "ValveType": "132FO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 1.717
+  },
+  {
+    "ValveType": "DIA69,5\/2",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.525,
+    "Bemerkungen": "DV 492285: PF"
+  },
+  {
+    "ValveType": "6,5\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.016
+  },
+  {
+    "ValveType": "98RO",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.45,
+    "Rate": 1.322,
+    "Bemerkungen": "492557: PF 98R1 617296 \/ HKS 02.4300"
+  },
+  {
+    "ValveType": "DIA83",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.362,
+    "Bemerkungen": "411170: PF 084598"
+  },
+  {
+    "ValveType": "145CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.894,
+    "Bemerkungen": "599677: PF 145CFDK 572250"
+  },
+  {
+    "ValveType": "164CFDK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.535
+  },
+  {
+    "ValveType": "186CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.939
+  },
+  {
+    "ValveType": "23U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "470205: PF \/ 147885: PF 470205"
+  },
+  {
+    "ValveType": "23U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "051546: PF \/ SV 470965: PF SV 470205"
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "590714: PF 590473"
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "591955: PF 590473"
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "597300: PF 590473"
+  },
+  {
+    "ValveType": "DIA334\/3",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.473
+  },
+  {
+    "ValveType": "145CFOK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.894
+  },
+  {
+    "ValveType": "80CE",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.35,
+    "Rate": 0.705
+  },
+  {
+    "ValveType": "62CFK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.32,
+    "Rate": 0.78,
+    "Bemerkungen": "466564: PF"
+  },
+  {
+    "ValveType": "197GO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.34,
+    "Rate": 3.447
+  },
+  {
+    "ValveType": "16A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.037,
+    "Bemerkungen": "DV 494374: PF \/ DV368971+SV494370: PF 494374"
+  },
+  {
+    "ValveType": "79CEK",
+    "Pressure": " 4\/3",
+    "Vessel": 5,
+    "Time": 0.34,
+    "Rate": 0.738
+  },
+  {
+    "ValveType": "176CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.82,
+    "Bemerkungen": "489146: PF 484149, 484060"
+  },
+  {
+    "ValveType": "119CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.048,
+    "Bemerkungen": "577498+580169+599214+599351: PF 119CEDK 587987"
+  },
+  {
+    "ValveType": "119CGDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.29,
+    "Rate": 2.048,
+    "Bemerkungen": "WA0265: PF 119CEDK 587987"
+  },
+  {
+    "ValveType": "150CDX",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.94,
+    "Bemerkungen": "495463: PF"
+  },
+  {
+    "ValveType": "23CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "494441+494442+499481+499492: PF"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "DV496133+DV496150: PF DV 495819+478631"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "496126+496127: PF \/ 497059: PF 497050"
+  },
+  {
+    "ValveType": "29CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08,
+    "Bemerkungen": "496140+496141+498948+498950: PF"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "495920+495921+495596+497050: PF"
+  },
+  {
+    "ValveType": "9A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.021,
+    "Bemerkungen": "496142: PF + 446799"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "496457: PF (AUCH FÜR 496475, 496479, 496481)"
+  },
+  {
+    "ValveType": "35U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165,
+    "Bemerkungen": "130474: PF + 494439"
+  },
+  {
+    "ValveType": "DIA54\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.244,
+    "Bemerkungen": "493670: PF"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "SV496718: PF478631 \/ DV496718: PF DV495819+478631"
+  },
+  {
+    "ValveType": "24R1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.068,
+    "Bemerkungen": 52182
+  },
+  {
+    "ValveType": "208CFE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.029
+  },
+  {
+    "ValveType": "165CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.682,
+    "Bemerkungen": "599676: PF 484060+590473"
+  },
+  {
+    "ValveType": "38CDK",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "497665 SV : PF478631 \/ DV: 478631+ DV485819"
+  },
+  {
+    "ValveType": "18C6",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "498016: PF \/ 498017: PF + 495921 \/ WA2211: PF 495921"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "SV498267+498269: PF DV478631 \/ DV498267+498269: PF 495819+ 478631"
+  },
+  {
+    "ValveType": "35U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.3,
+    "Rate": 0.165,
+    "Bemerkungen": "497907: Universal-PF, PU-Dichtung DIA52\/42"
+  },
+  {
+    "ValveType": "41CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183,
+    "Bemerkungen": "498468+499003+499005+WA1595: PF 497515"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "SV 470159: PF 494440 \/ DV 470159: PF + 494440"
+  },
+  {
+    "ValveType": "23CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.78,
+    "Rate": 0.064,
+    "Bemerkungen": "499535: PF+ SV499481 \/ 499540: PF 499492"
+  },
+  {
+    "ValveType": "41U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.184,
+    "Bemerkungen": "124336: PF+ 41CU 598464"
+  },
+  {
+    "ValveType": "48CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.23,
+    "Rate": 0.215,
+    "Bemerkungen": "591112+WA0255+WA0256+WA0850+WA0851: PF 498204"
+  },
+  {
+    "ValveType": "DIA10\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.024,
+    "Bemerkungen": "492232: PF 410700 \/ 492241: PF 410703"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "DV498748+498750: PF DV495819+SV 478631"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "498746: PF 495596 \/ 498744: PF + 494439"
+  },
+  {
+    "ValveType": "41CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183,
+    "Bemerkungen": "498761+WA0450: PF 48CU 496370"
+  },
+  {
+    "ValveType": "PLUG65U+186CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0,
+    "Bemerkungen": "598394: PF 590537"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "SV499445: PF 478631 \/ DV499445: PF 478631+DV495819"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "DV499057+499444: PF 495596 \/ SV499057: PF 494439+498744"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "SV499498+SV499530: PF 478631 \/ 499513: PF+499508"
+  },
+  {
+    "ValveType": "19CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1.02,
+    "Rate": 0.049,
+    "Bemerkungen": "DV499498+DV499530+499749+WA0907: PF 495819+478631"
+  },
+  {
+    "ValveType": "35CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.31,
+    "Rate": 0.163,
+    "Bemerkungen": "499137+499138: PF + PU-Dichtung \/ WA2210: PF 495920"
+  },
+  {
+    "ValveType": "41CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 0.183,
+    "Bemerkungen": "DV448003: PF+SV448003"
+  },
+  {
+    "ValveType": "29CU",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08,
+    "Bemerkungen": "499706: PF498948 \/ 499708: PF 498950"
+  },
+  {
+    "ValveType": "13A",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.035,
+    "Bemerkungen": "499712: PF DIA10\/1 410700 \/ 499713: PF DIA10\/1 410703"
+  },
+  {
+    "ValveType": "19U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049,
+    "Bemerkungen": "WA1227: PF+496457"
+  },
+  {
+    "ValveType": "190CJTO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.28,
+    "Rate": 4.276
+  },
+  {
+    "ValveType": "158CHTO",
+    "Pressure": " 4\/2",
+    "Vessel": 10,
+    "Time": 0.41,
+    "Rate": 2.915
+  },
+  {
+    "ValveType": "120CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.59
+  },
+  {
+    "ValveType": "134CFOK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.706
+  },
+  {
+    "ValveType": "109CFK",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.438
+  },
+  {
+    "ValveType": "41U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.27,
+    "Rate": 1.84,
+    "Bemerkungen": "407386: DV 41CU 448003+41CU 495919"
+  },
+  {
+    "ValveType": "229CHE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.698
+  },
+  {
+    "ValveType": "DIA17",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.08,
+    "Bemerkungen": "WA2527: PF \/ WA3006: PF+WA2527"
+  },
+  {
+    "ValveType": "19U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049,
+    "Bemerkungen": "493435+SV WA3226: PF WA1173+19CU 478631"
+  },
+  {
+    "ValveType": "19U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 1,
+    "Rate": 0.049,
+    "Bemerkungen": "493441+DV WA3226: PF WA1178+19CU 478631"
+  },
+  {
+    "ValveType": "29U",
+    "Pressure": " 4\/3",
+    "Vessel": 1,
+    "Time": 0.63,
+    "Rate": 0.08,
+    "Bemerkungen": "493412+493438: PF WA1208"
+  },
+  {
+    "ValveType": "197CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.076
+  },
+  {
+    "ValveType": "100CFDK",
+    "Pressure": " 4\/2",
+    "Vessel": 5,
+    "Time": 0.44,
+    "Rate": 1.36
+  },
+  {
+    "ValveType": "192CJM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.51
+  },
+  {
+    "ValveType": "178CJM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4
+  },
+  {
+    "ValveType": "168CHM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.39
+  },
+  {
+    "ValveType": "154CHM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.96
+  },
+  {
+    "ValveType": "144CGM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.42
+  },
+  {
+    "ValveType": "130CGM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.08
+  },
+  {
+    "ValveType": "110CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.41
+  },
+  {
+    "ValveType": "106CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.34
+  },
+  {
+    "ValveType": "96CFM",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.15
+  },
+  {
+    "ValveType": "212CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 7.15
+  },
+  {
+    "ValveType": "202CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 6.33
+  },
+  {
+    "ValveType": "193CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.89
+  },
+  {
+    "ValveType": "184CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 5.45
+  },
+  {
+    "ValveType": "174CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.75
+  },
+  {
+    "ValveType": "165CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 4.36
+  },
+  {
+    "ValveType": "155CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.72
+  },
+  {
+    "ValveType": "145CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 3.35
+  },
+  {
+    "ValveType": "136CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.81
+  },
+  {
+    "ValveType": "117CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 2.02
+  },
+  {
+    "ValveType": "108CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.79
+  },
+  {
+    "ValveType": "98CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.55
+  },
+  {
+    "ValveType": "79CP",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.99
+  },
+  {
+    "ValveType": "DIA25,5\/1",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 0.121
+  },
+  {
+    "ValveType": "133CEE",
+    "Pressure": "_",
+    "Vessel": 0,
+    "Time": 0,
+    "Rate": 1.292,
+    "Bemerkungen": "WA3505: 134CFDK 585482 \/ WA3553: 145CHDK 580693"
+  }
+]
