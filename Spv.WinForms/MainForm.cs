@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Spv.WinForms.Models;
@@ -28,11 +29,26 @@ public partial class MainForm : Form
 
     private void Button1_Click(object? sender, EventArgs e)
     {
+        logger.LogInformation(nameof(Button1_Click));
+        bindingSource1.DataSource = ToDataTable(h248konzList);
+        dataGridView1.DataSource = bindingSource1;
+
+        var startOfThisYear = new DateTime(DateTime.Now.Year, 1, 1);
+        
         using var scope = serviceProvider.CreateScope();
         var context = scope.ServiceProvider.GetService<SpvContext>();
         if (context == null) return;
-        bindingSource1.DataSource = ToDataTable(h248konzList);
-        dataGridView1.DataSource = bindingSource1;
+        var queryable = from order in context.Orders
+                        join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
+                        where
+                            order.OrderDate>= startOfThisYear
+                        orderby order.OrderDate
+                        select order;
+        var list = queryable
+            .AsNoTracking()
+            .ToList();
+        bindingSource2.DataSource = ToDataTable(list);
+        dataGridView2.DataSource = bindingSource2;
     }
 
     private DataTable ToDataTable<T>(IEnumerable<T> items)
