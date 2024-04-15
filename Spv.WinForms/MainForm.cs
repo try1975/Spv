@@ -1,12 +1,13 @@
+using CsvHelper;
+using CsvHelper.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Spv.WinForms.Models;
 using Spv.WinForms.Models.Dict;
-using System.Collections.Generic;
 using System.Data;
+using System.Globalization;
 using System.Reflection;
-using System.Text.Json;
 
 namespace Spv.WinForms;
 
@@ -30,23 +31,55 @@ public partial class MainForm : Form
         button2.Click += Button2_Click;
         bindingSource1.CurrentChanged += BindingSource1_CurrentChanged;
         bindingSource3.CurrentChanged += BindingSource3_CurrentChanged;
+        tbTextFilter.TextChanged += TbTextFilter_TextChanged;
 
         Details = ToDataTable(h264List);
 
-        var json = string.Empty;
-        var path = "./h248konz.json";
-        if (Path.Exists(path))
-        {
-            json = System.IO.File.ReadAllText(path);
-                h248List = JsonSerializer.Deserialize<List<h248konz>>(json);
-        }
-        path = "./h264.json";
-        if (Path.Exists(path))
-        {
-            json = System.IO.File.ReadAllText(path);
-            h264List = JsonSerializer.Deserialize<List<H264>>(json);
-        }
 
+        //var path = "./h264.json";
+        //var json = string.Empty;
+        //if (Path.Exists(path))
+        //{
+        //    json = System.IO.File.ReadAllText(path);
+        //    h264List = JsonSerializer.Deserialize<List<H264>>(json);
+        //}
+        //path = "./h248konz.json";
+        //if (Path.Exists(path))
+        //{
+        //    json = System.IO.File.ReadAllText(path);
+        //        h248List = JsonSerializer.Deserialize<List<h248konz>>(json);
+        //}
+        var config = new CsvConfiguration(CultureInfo.GetCultureInfo("ru-RU"))
+        {
+            HasHeaderRecord = true,
+
+        };
+        var path = "./h264.csv";
+        using (var reader = new StreamReader(path))
+        using (var csv = new CsvReader(reader, config))
+        {
+            //csv.Context.RegisterClassMap<NavigationRecordReadMap>();
+            h264List = csv.GetRecords<H264>().ToList();
+        }
+    }
+
+    private void TbTextFilter_TextChanged(object? sender, EventArgs e)
+    {
+        DgvItems_FilterStringChanged(sender, e);
+    }
+
+    private void DgvItems_FilterStringChanged(object? sender, EventArgs e)
+    {
+        bindingSource3.Filter = GetFilterString();
+        bindingSource3.ResetBindings(false);
+    }
+
+    private string GetFilterString()
+    {
+        var value = tbTextFilter.Text.Trim();
+        var valveType = nameof(H264.ValveType);
+        var filterString = $"([{valveType}] LIKE '%{value}%')";
+        return filterString;
     }
 
     private void Button2_Click(object? sender, EventArgs e)
@@ -75,7 +108,7 @@ public partial class MainForm : Form
 
     private void BindingSource3_CurrentChanged(object? sender, EventArgs e)
     {
-        
+
     }
 
     private void BindingSource1_CurrentChanged(object? sender, EventArgs e)
@@ -103,7 +136,7 @@ public partial class MainForm : Form
         var context = scope.ServiceProvider.GetService<SpvContext>();
         if (context == null) return;
         var queryable = from order in context.VOrders
-                        //join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
+                            //join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
                         where
                             order.OrderDate >= startOfThisYear
                         orderby order.OrderDate

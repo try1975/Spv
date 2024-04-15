@@ -39,6 +39,7 @@
             button2 = new Button();
             dataGridView4 = new DataGridView();
             bindingSource4 = new BindingSource(components);
+            tbTextFilter = new TextBox();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)bindingSource2).BeginInit();
@@ -63,7 +64,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(80, 39);
+            button1.Location = new Point(30, 12);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 1;
@@ -113,11 +114,19 @@
             dataGridView4.Size = new Size(259, 357);
             dataGridView4.TabIndex = 5;
             // 
+            // tbTextFilter
+            // 
+            tbTextFilter.Location = new Point(31, 49);
+            tbTextFilter.Name = "tbTextFilter";
+            tbTextFilter.Size = new Size(100, 23);
+            tbTextFilter.TabIndex = 6;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1251, 522);
+            Controls.Add(tbTextFilter);
             Controls.Add(dataGridView4);
             Controls.Add(button2);
             Controls.Add(dataGridView3);
@@ -135,6 +144,7 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView4).EndInit();
             ((System.ComponentModel.ISupportInitialize)bindingSource4).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -149,5 +159,6 @@
         private Button button2;
         private DataGridView dataGridView4;
         private BindingSource bindingSource4;
+        private TextBox tbTextFilter;
     }
 }
