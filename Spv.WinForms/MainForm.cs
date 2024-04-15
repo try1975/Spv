@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Spv.WinForms.Models;
+using Spv.WinForms.Models.Dict;
+using System.Collections.Generic;
 using System.Data;
 using System.Reflection;
 using System.Text.Json;
@@ -12,7 +14,9 @@ public partial class MainForm : Form
 {
     private readonly ILogger<MainForm> logger;
     private readonly IServiceProvider serviceProvider;
-    private readonly List<h248konz> h248konzList;
+    private readonly List<h248konz>? h248List;
+    private readonly List<H264>? h264List = [];
+    private readonly DataTable Details;
 
     public MainForm(ILogger<MainForm> logger, IServiceProvider serviceProvider)
     {
@@ -23,25 +27,85 @@ public partial class MainForm : Form
 
 
         button1.Click += Button1_Click;
-        var json = System.IO.File.ReadAllText("./h248konz.json");
-        h248konzList = JsonSerializer.Deserialize<List<h248konz>>(json);
+        button2.Click += Button2_Click;
+        bindingSource1.CurrentChanged += BindingSource1_CurrentChanged;
+        bindingSource3.CurrentChanged += BindingSource3_CurrentChanged;
+
+        Details = ToDataTable(h264List);
+
+        var json = string.Empty;
+        var path = "./h248konz.json";
+        if (Path.Exists(path))
+        {
+            json = System.IO.File.ReadAllText(path);
+                h248List = JsonSerializer.Deserialize<List<h248konz>>(json);
+        }
+        path = "./h264.json";
+        if (Path.Exists(path))
+        {
+            json = System.IO.File.ReadAllText(path);
+            h264List = JsonSerializer.Deserialize<List<H264>>(json);
+        }
+
+    }
+
+    private void Button2_Click(object? sender, EventArgs e)
+    {
+        H264 item = null;
+        if (bindingSource3.Current != null)
+        {
+            var current = (DataRowView)bindingSource3.Current;
+            item = ToDto<H264>(current);
+        }
+        if (item == null) return;
+        var row = Details.NewRow();
+        row[nameof(H264.ValveType)] = item.ValveType;
+        row[nameof(H264.Pressure)] = item.Pressure;
+        row[nameof(H264.Vessel)] = item.Vessel;
+        row[nameof(H264.Time)] = item.Time;
+        row[nameof(H264.Rate)] = item.Rate;
+        row[nameof(H264.Bemerkungen)] = item.Bemerkungen;
+        row[nameof(H264.ModifiedBy)] = item.ModifiedBy;
+        Details.Rows.Add(row);
+
+        bindingSource4.DataSource = Details;
+        dataGridView4.DataSource = null;
+        dataGridView4.DataSource = bindingSource4;
+    }
+
+    private void BindingSource3_CurrentChanged(object? sender, EventArgs e)
+    {
+        
+    }
+
+    private void BindingSource1_CurrentChanged(object? sender, EventArgs e)
+    {
+        //throw new NotImplementedException();
     }
 
     private void Button1_Click(object? sender, EventArgs e)
     {
         logger.LogInformation(nameof(Button1_Click));
-        bindingSource1.DataSource = ToDataTable(h248konzList);
-        dataGridView1.DataSource = bindingSource1;
+        if (h248List != null)
+        {
+            bindingSource1.DataSource = ToDataTable(h248List);
+            dataGridView1.DataSource = bindingSource1;
+        }
+        if (h264List != null)
+        {
+            bindingSource3.DataSource = ToDataTable(h264List);
+            dataGridView3.DataSource = bindingSource3;
+        }
 
         var startOfThisYear = new DateTime(DateTime.Now.Year, 1, 1);
-        
+
         using var scope = serviceProvider.CreateScope();
         var context = scope.ServiceProvider.GetService<SpvContext>();
         if (context == null) return;
-        var queryable = from order in context.Orders
-                        join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
+        var queryable = from order in context.VOrders
+                        //join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
                         where
-                            order.OrderDate>= startOfThisYear
+                            order.OrderDate >= startOfThisYear
                         orderby order.OrderDate
                         select order;
         var list = queryable
@@ -77,5 +141,18 @@ public partial class MainForm : Form
             dataTable.Rows.Add(values);
         }
         return dataTable;
+    }
+
+    private static T ToDto<T>(DataRowView data)
+    {
+        var result = (T)Activator.CreateInstance(typeof(T), null);
+        var props = typeof(T).GetProperties(BindingFlags.Public | BindingFlags.Instance);
+        for (var i = 0; i < props.Length; i++)
+        {
+            var value = data.Row.ItemArray[i];
+            if (value != DBNull.Value)
+                props[i].SetValue(result, data.Row.ItemArray[i]);
+        }
+        return result;
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace Spv.WinForms;
+﻿namespace Spv.WinForms.Models.Dict;
 
 public class h248konz
 {

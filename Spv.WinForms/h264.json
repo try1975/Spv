@@ -4714,7 +4714,7 @@
     "Rate": 0.64
   },
   {
-    "ValveType": 7000,
+    "ValveType": "7000",
     "Pressure": "_",
     "Vessel": 5,
     "Time": 0,
@@ -7370,7 +7370,7 @@
     "Vessel": 0,
     "Time": 0,
     "Rate": 0.068,
-    "Bemerkungen": 52182
+    "Bemerkungen": "52182"
   },
   {
     "ValveType": "208CFE",
