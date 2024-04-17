@@ -13,9 +13,8 @@ namespace Spv.WinForms.Models.Configurations
     {
         public void Configure(EntityTypeBuilder<Meassure> entity)
         {
-            entity
-                .HasNoKey()
-                .ToTable("meassure");
+            entity.ToTable("meassure");
+            entity.HasKey(e => e.TestId);
 
             entity.Property(e => e.Created)
                 .HasColumnType("datetime")

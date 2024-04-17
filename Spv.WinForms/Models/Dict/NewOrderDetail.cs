@@ -2,12 +2,12 @@
 
 internal class NewOrderDetail
 {
-    public string? Serialnb { get; set; }
-    public string? ValveType { get; set; }
-    public string? Drawing { get; set; }
+    public string Serialnb { get; set; } = string.Empty;
+    public string ValveType { get; set; } = string.Empty;
+    public string Drawing { get; set; } = string.Empty;
     public int? TypeParam { get; set; }
-    public string? MatNb { get; set; }
-    public string? MatDesc { get; set; }
+    public string MatNb { get; set; } = string.Empty;
+    public string MatDesc { get; set; } = string.Empty;
     public long? Id { get; set; }
     public float? p1 { get; set; }
     public float? p2 { get; set; }

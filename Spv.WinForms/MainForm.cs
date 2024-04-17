@@ -24,6 +24,7 @@ public partial class MainForm : Form
     private readonly int ordertype;
     private readonly int orderstateid;
     private readonly Random rnd = new();
+    private string MatNb = string.Empty;
 
     public MainForm(ILogger<MainForm> logger, IServiceProvider serviceProvider)
     {
@@ -36,19 +37,23 @@ public partial class MainForm : Form
         userid = 2;
         ordertype = 50;
         orderstateid = 0;
+        MatNb = rnd.Next(1_000_000, 2_000_000).ToString();
 
-        button1.Click += Button1_Click;
-        button2.Click += Button2_Click;
+        tabPage2.Enter += TabPage2_Enter;
+        button2.Click += BtnAdd_Click;
         btnSave.Click += BtnSave_Click;
+        btnClear.Click += BtnClear_Click;
         tbTextFilter.TextChanged += TbTextFilter_TextChanged;
+        dataGridView2.UserDeletingRow += DataGridView2_UserDeletingRow;
+        dataGridView3.CellDoubleClick += DataGridView3_CellDoubleClick;
 
         // contains order details
         Details = ToDataTable(new List<NewOrderDetail>());
+        SetDetailsColumns();
 
         var config = new CsvConfiguration(CultureInfo.GetCultureInfo("ru-RU"))
         {
             HasHeaderRecord = true,
-
         };
         var path = "./h264.csv";
         using (var reader = new StreamReader(path))
@@ -59,14 +64,16 @@ public partial class MainForm : Form
         }
         bindingSource3.DataSource = ToDataTable(h264List);
         dataGridView3.DataSource = bindingSource3;
+
     }
 
     private async void BtnSave_Click(object? sender, EventArgs e)
     {
+        if (await CheckData() == false) return;
         using var transaction = await context.Database.BeginTransactionAsync();
         try
         {
-            var ordernb = context.Orders.Select(x => int.Parse(x.OrderNb)).ToList().Max() + 1;
+            var ordernb = tbOrderNb.Text; //context.Orders.Select(x => int.Parse(x.OrderNb)).ToList().Max() + 1;
             OutputParameter<Guid?> orderid = new();
             await context.Procedures.OrderAddAsync(ordernb.ToString(), ordertype, orderstateid, userid, orderid);
 
@@ -96,6 +103,7 @@ public partial class MainForm : Form
                     );
             }
             await transaction.CommitAsync();
+            MessageBox.Show($"Заказ сохранен в базу");
         }
         catch (Exception ex)
         {
@@ -104,37 +112,7 @@ public partial class MainForm : Form
         }
     }
 
-    private List<NewOrderDetail> MapDetails()
-    {
-        List<NewOrderDetail> list = [];
-        foreach (var item in Details.Rows)
-        {
-            if (item is not DataRow row) continue;
-            list.Add(new NewOrderDetail
-            {
-                Serialnb = row[nameof(NewOrderDetail.Serialnb)].ToString(),
-                ValveType = row[nameof(NewOrderDetail.ValveType)].ToString(),
-                Drawing = row[nameof(NewOrderDetail.Drawing)].ToString(),
-                TypeParam = (int)row[nameof(NewOrderDetail.TypeParam)],
-                MatNb = row[nameof(NewOrderDetail.MatNb)].ToString(),
-                MatDesc = row[nameof(NewOrderDetail.MatDesc)].ToString(),
-                Id = (long)row[nameof(NewOrderDetail.Id)],
-                p1 = (float)row[nameof(NewOrderDetail.p1)],
-                p2 = (float)row[nameof(NewOrderDetail.p2)],
-                innerrate = (double)row[nameof(NewOrderDetail.innerrate)],
-                innertime = (double)row[nameof(NewOrderDetail.innertime)],
-                outerrate = (double)row[nameof(NewOrderDetail.outerrate)],
-                outertime = (double)row[nameof(NewOrderDetail.outertime)],
-                pressure = (double)row[nameof(NewOrderDetail.pressure)],
-                vessel = (double)row[nameof(NewOrderDetail.vessel)],
-                ValueInner = (double)row[nameof(NewOrderDetail.ValueInner)],
-                ValueOuter = (double)row[nameof(NewOrderDetail.ValueOuter)],
-            });
-        }
-        return list;
-    }
-
-    private void Button2_Click(object? sender, EventArgs e)
+    private void BtnAdd_Click(object? sender, EventArgs e)
     {
         H264 item = null;
         if (bindingSource3.Current != null)
@@ -144,8 +122,8 @@ public partial class MainForm : Form
         }
         if (item == null) return;
         var row = Details.NewRow();
-        row[nameof(NewOrderDetail.Serialnb)] = rnd.Next(20_000, 30_000).ToString();
-        row[nameof(NewOrderDetail.MatNb)] = rnd.Next(5_000, 10_000).ToString();
+        row[nameof(NewOrderDetail.Serialnb)] = rnd.Next(1_000_000, 2_000_000).ToString();
+        row[nameof(NewOrderDetail.MatNb)] = MatNb;
         row[nameof(NewOrderDetail.ValveType)] = item.ValveType;
         row[nameof(NewOrderDetail.Drawing)] = string.Empty;
         row[nameof(NewOrderDetail.TypeParam)] = 0;
@@ -182,17 +160,82 @@ public partial class MainForm : Form
         dataGridView4.DataSource = bindingSource4;
     }
 
-
-    private void Button1_Click(object? sender, EventArgs e)
+    private void BtnClear_Click(object? sender, EventArgs e)
     {
-        logger.LogInformation(nameof(Button1_Click));
+        tbOrderNb.Clear();
+        MatNb = rnd.Next(1_000_000, 2_000_000).ToString();
+        if (Details is not null)
+        {
+            Details.Clear();
+        }
+    }
 
-        var startOfThisYear = new DateTime(DateTime.Now.Year, 1, 1);
+    private void DataGridView3_CellDoubleClick(object? sender, DataGridViewCellEventArgs e)
+    {
+        BtnAdd_Click(sender, e);
+    }
+
+    private async void DataGridView2_UserDeletingRow(object? sender, DataGridViewRowCancelEventArgs e)
+    {
+        //e.Row
+        VOrder item = null;
+        if (bindingSource2.Current != null)
+        {
+            var current = (DataRowView)bindingSource2.Current;
+            item = ToDto<VOrder>(current);
+        }
+        if (item == null) return;
+        const string question = @"You really want to delete selected records?";
+        const string caption = @"Delete warning";
+        if (MessageBox.Show(question, caption, MessageBoxButtons.OKCancel) != DialogResult.OK) return;
+        var queryable = from order in context.Orders
+                        join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
+                        join meassure in context.Meassures on orderDetail.Serialid equals meassure.SerialId
+                        where
+                            order.OrderId == item.OrderId
+                        select new
+                        {
+                            Serialid = orderDetail.Serialid,
+                            TestId = meassure.TestId
+                        };
+        var meassures = await queryable
+            .ToListAsync();
+        var testIds = meassures.Select(x => x.TestId).ToList();
+        if (context.MeassuredVals.Count(x => testIds.Contains(x.TestId))>0)
+        {
+            MessageBox.Show("Заказ не может быть удалён");
+            return;
+        }
+        using var transaction = await context.Database.BeginTransactionAsync();
+        try
+        {
+            foreach ( var meassure in meassures) 
+            {
+                context.Remove(context.Meassures.Single(a => a.TestId == meassure.TestId));
+                context.Remove(context.OrdersDetails.Single(a => a.Serialid == meassure.Serialid));
+            }
+            context.Remove(context.Orders.Single(x => x.OrderId== item.OrderId));
+            context.SaveChanges();
+            await transaction.CommitAsync();
+        }
+        catch (Exception ex)
+        {
+            await transaction.RollbackAsync();
+            MessageBox.Show(ex.ToString());
+        }
+    }
+
+
+    private void TabPage2_Enter(object? sender, EventArgs e)
+    {
+        logger.LogInformation(nameof(TabPage2_Enter));
+
+        var startDate = DateTime.Today.AddDays(-15);
 
         var queryable = from order in context.VOrders
                             //join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
                         where
-                            order.OrderDate >= startOfThisYear
+                            order.OrderDate >= startDate
                         orderby order.OrderDate
                         select order;
         var list = queryable
@@ -202,15 +245,76 @@ public partial class MainForm : Form
         dataGridView2.DataSource = bindingSource2;
     }
 
-    private void TbTextFilter_TextChanged(object? sender, EventArgs e)
+    private async Task<bool> CheckData()
     {
-        DgvItems_FilterStringChanged(sender, e);
+        if (string.IsNullOrEmpty(tbOrderNb.Text))
+        {
+            MessageBox.Show("Укажите номер заказа");
+            return false;
+        }
+        var order = await context.Orders.FirstOrDefaultAsync(x => x.OrderNb == tbOrderNb.Text);
+        if (order != null)
+        {
+            MessageBox.Show($"Заказ номер {tbOrderNb.Text} уже есть");
+            return false;
+        }
+        if (Details.Rows.Count == 0)
+        {
+            MessageBox.Show($"В заказе нет позиций");
+            return false;
+        }
+        return true;
     }
 
-    private void DgvItems_FilterStringChanged(object? sender, EventArgs e)
+    private void SetDetailsColumns()
+    {
+        if (Details is null) return;
+        var column = Details.Columns[nameof(NewOrderDetail.ValueInner)];
+        if (column is not null)
+        {
+            column.ColumnMapping = MappingType.Hidden;
+        }
+        column = Details.Columns[nameof(NewOrderDetail.ValueOuter)];
+        if (column is not null)
+        {
+            column.ColumnMapping = MappingType.Hidden;
+        }
+    }
+
+    private void TbTextFilter_TextChanged(object? sender, EventArgs e)
     {
         bindingSource3.Filter = GetFilterString();
         bindingSource3.ResetBindings(false);
+    }
+
+    private List<NewOrderDetail> MapDetails()
+    {
+        List<NewOrderDetail> list = [];
+        foreach (var item in Details.Rows)
+        {
+            if (item is not DataRow row) continue;
+            list.Add(new NewOrderDetail
+            {
+                Serialnb = row[nameof(NewOrderDetail.Serialnb)].ToString() ?? string.Empty,
+                ValveType = row[nameof(NewOrderDetail.ValveType)].ToString() ?? string.Empty,
+                Drawing = row[nameof(NewOrderDetail.Drawing)].ToString() ?? string.Empty,
+                TypeParam = (int)row[nameof(NewOrderDetail.TypeParam)],
+                MatNb = row[nameof(NewOrderDetail.MatNb)].ToString() ?? string.Empty,
+                MatDesc = row[nameof(NewOrderDetail.MatDesc)].ToString() ?? string.Empty,
+                Id = (long)row[nameof(NewOrderDetail.Id)],
+                p1 = (float)row[nameof(NewOrderDetail.p1)],
+                p2 = (float)row[nameof(NewOrderDetail.p2)],
+                innerrate = (double)row[nameof(NewOrderDetail.innerrate)],
+                innertime = (double)row[nameof(NewOrderDetail.innertime)],
+                outerrate = (double)row[nameof(NewOrderDetail.outerrate)],
+                outertime = (double)row[nameof(NewOrderDetail.outertime)],
+                pressure = (double)row[nameof(NewOrderDetail.pressure)],
+                vessel = (double)row[nameof(NewOrderDetail.vessel)],
+                ValueInner = (double)row[nameof(NewOrderDetail.ValueInner)],
+                ValueOuter = (double)row[nameof(NewOrderDetail.ValueOuter)],
+            });
+        }
+        return list;
     }
 
     private string GetFilterString()
