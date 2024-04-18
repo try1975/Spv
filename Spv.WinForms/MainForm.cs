@@ -138,15 +138,15 @@ public partial class MainForm : Form
             row[nameof(NewOrderDetail.p2)] = 0;
             if (pressures.Length >= 1 && float.TryParse(pressures[0].Trim(), out var p1))
             {
-                row[nameof(NewOrderDetail.p1)] = p1;
+                row[nameof(NewOrderDetail.p1)] = p1 * 100_000;
             }
             if (pressures.Length >= 2 && float.TryParse(pressures[1].Trim(), out var p2))
             {
-                row[nameof(NewOrderDetail.p2)] = p2;
+                row[nameof(NewOrderDetail.p2)] = p2 * 100_000;
             }
         }
-        row[nameof(NewOrderDetail.innerrate)] = item.Rate;
-        row[nameof(NewOrderDetail.innertime)] = item.Time;
+        row[nameof(NewOrderDetail.innerrate)] = item.Rate / 3600.00;
+        row[nameof(NewOrderDetail.innertime)] = item.Time * 60;
         row[nameof(NewOrderDetail.outerrate)] = -1;
         row[nameof(NewOrderDetail.outertime)] = -1;
         row[nameof(NewOrderDetail.pressure)] = -1;
@@ -232,18 +232,17 @@ public partial class MainForm : Form
         }
     }
 
-
     private void TabPage2_Enter(object? sender, EventArgs e)
     {
         logger.LogInformation(nameof(TabPage2_Enter));
 
-        var startDate = DateTime.Today.AddDays(-15);
+        var startDate = DateTime.Today.AddDays(-730);
 
         var queryable = from order in context.VOrders
                             //join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
                         where
                             order.OrderDate >= startDate
-                        orderby order.OrderDate
+                        orderby order.OrderDate descending
                         select order;
         var list = queryable
             .AsNoTracking()
