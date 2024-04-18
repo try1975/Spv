@@ -2,6 +2,7 @@
 
 internal class NewOrderDetail
 {
+    public int npp { get; set; }
     public string Serialnb { get; set; } = string.Empty;
     public string ValveType { get; set; } = string.Empty;
     public string Drawing { get; set; } = string.Empty;

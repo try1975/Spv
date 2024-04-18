@@ -81,7 +81,7 @@
             tabControl1.Location = new Point(0, 0);
             tabControl1.Name = "tabControl1";
             tabControl1.SelectedIndex = 0;
-            tabControl1.Size = new Size(916, 500);
+            tabControl1.Size = new Size(1184, 505);
             tabControl1.TabIndex = 10;
             // 
             // tabPage1
@@ -92,7 +92,7 @@
             tabPage1.Location = new Point(4, 24);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(908, 472);
+            tabPage1.Size = new Size(1176, 477);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "Новый заказ";
             tabPage1.UseVisualStyleBackColor = true;
@@ -104,16 +104,16 @@
             panel4.Dock = DockStyle.Fill;
             panel4.Location = new Point(211, 3);
             panel4.Name = "panel4";
-            panel4.Size = new Size(694, 466);
+            panel4.Size = new Size(962, 471);
             panel4.TabIndex = 2;
             // 
             // panel6
             // 
             panel6.Controls.Add(dataGridView4);
             panel6.Dock = DockStyle.Fill;
-            panel6.Location = new Point(0, 120);
+            panel6.Location = new Point(0, 42);
             panel6.Name = "panel6";
-            panel6.Size = new Size(694, 346);
+            panel6.Size = new Size(962, 429);
             panel6.TabIndex = 1;
             // 
             // dataGridView4
@@ -124,7 +124,7 @@
             dataGridView4.Dock = DockStyle.Fill;
             dataGridView4.Location = new Point(0, 0);
             dataGridView4.Name = "dataGridView4";
-            dataGridView4.Size = new Size(694, 346);
+            dataGridView4.Size = new Size(962, 429);
             dataGridView4.TabIndex = 6;
             // 
             // panel5
@@ -136,7 +136,7 @@
             panel5.Dock = DockStyle.Top;
             panel5.Location = new Point(0, 0);
             panel5.Name = "panel5";
-            panel5.Size = new Size(694, 120);
+            panel5.Size = new Size(962, 42);
             panel5.TabIndex = 0;
             // 
             // tbOrderNb
@@ -177,7 +177,7 @@
             // 
             splitter1.Location = new Point(208, 3);
             splitter1.Name = "splitter1";
-            splitter1.Size = new Size(3, 466);
+            splitter1.Size = new Size(3, 471);
             splitter1.TabIndex = 1;
             splitter1.TabStop = false;
             // 
@@ -188,7 +188,7 @@
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(3, 3);
             panel1.Name = "panel1";
-            panel1.Size = new Size(205, 466);
+            panel1.Size = new Size(205, 471);
             panel1.TabIndex = 0;
             // 
             // panel3
@@ -197,7 +197,7 @@
             panel3.Dock = DockStyle.Fill;
             panel3.Location = new Point(0, 42);
             panel3.Name = "panel3";
-            panel3.Size = new Size(205, 424);
+            panel3.Size = new Size(205, 429);
             panel3.TabIndex = 1;
             // 
             // dataGridView3
@@ -210,7 +210,7 @@
             dataGridView3.Location = new Point(0, 0);
             dataGridView3.Name = "dataGridView3";
             dataGridView3.ReadOnly = true;
-            dataGridView3.Size = new Size(205, 424);
+            dataGridView3.Size = new Size(205, 429);
             dataGridView3.TabIndex = 4;
             // 
             // panel2
@@ -285,7 +285,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(916, 500);
+            ClientSize = new Size(1184, 505);
             Controls.Add(tabControl1);
             Name = "MainForm";
             Text = "Spv";

@@ -24,7 +24,6 @@ public partial class MainForm : Form
     private readonly int ordertype;
     private readonly int orderstateid;
     private readonly Random rnd = new();
-    private string MatNb = string.Empty;
     private long maxId = 0;
 
     public MainForm(ILogger<MainForm> logger, IServiceProvider serviceProvider)
@@ -38,7 +37,6 @@ public partial class MainForm : Form
         userid = 2;
         ordertype = 50;
         orderstateid = 0;
-        MatNb = rnd.Next(1_000_000, 2_000_000).ToString();
         maxId = (long)context.OrdersDetails.Max(x => x.Id);
 
         tabPage2.Enter += TabPage2_Enter;
@@ -124,8 +122,9 @@ public partial class MainForm : Form
         }
         if (item == null) return;
         var row = Details.NewRow();
-        row[nameof(NewOrderDetail.Serialnb)] = rnd.Next(1_000_000, 2_000_000).ToString();
-        row[nameof(NewOrderDetail.MatNb)] = MatNb;
+        //row[nameof(NewOrderDetail.Serialnb)] = rnd.Next(1_000_000, 2_000_000).ToString();
+
+        
         row[nameof(NewOrderDetail.ValveType)] = item.ValveType;
         row[nameof(NewOrderDetail.Drawing)] = string.Empty;
         row[nameof(NewOrderDetail.TypeParam)] = 0;
@@ -158,6 +157,13 @@ public partial class MainForm : Form
         row[nameof(NewOrderDetail.Id)] = maxId;
         Details.Rows.Add(row);
 
+        var npp = 0;
+        foreach (var r in Details.Rows)
+        {
+            npp++;
+            (r as DataRow)[nameof(NewOrderDetail.npp)] = npp;
+        }
+
         bindingSource4.DataSource = Details;
         dataGridView4.DataSource = null;
         dataGridView4.DataSource = bindingSource4;
@@ -166,7 +172,6 @@ public partial class MainForm : Form
     private void BtnClear_Click(object? sender, EventArgs e)
     {
         tbOrderNb.Clear();
-        MatNb = rnd.Next(1_000_000, 2_000_000).ToString();
         if (Details is not null)
         {
             Details.Clear();
