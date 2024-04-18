@@ -25,6 +25,7 @@ public partial class MainForm : Form
     private readonly int orderstateid;
     private readonly Random rnd = new();
     private string MatNb = string.Empty;
+    private long maxId = 0;
 
     public MainForm(ILogger<MainForm> logger, IServiceProvider serviceProvider)
     {
@@ -38,6 +39,7 @@ public partial class MainForm : Form
         ordertype = 50;
         orderstateid = 0;
         MatNb = rnd.Next(1_000_000, 2_000_000).ToString();
+        maxId = (long)context.OrdersDetails.Max(x => x.Id);
 
         tabPage2.Enter += TabPage2_Enter;
         button2.Click += BtnAdd_Click;
@@ -152,7 +154,8 @@ public partial class MainForm : Form
         row[nameof(NewOrderDetail.vessel)] = item.Vessel;
         row[nameof(NewOrderDetail.ValueInner)] = -1;
         row[nameof(NewOrderDetail.ValueOuter)] = -1;
-        row[nameof(NewOrderDetail.Id)] = context.OrdersDetails.Max(x => x.Id) + 1;
+        maxId++;
+        row[nameof(NewOrderDetail.Id)] = maxId;
         Details.Rows.Add(row);
 
         bindingSource4.DataSource = Details;
@@ -188,33 +191,32 @@ public partial class MainForm : Form
         const string question = @"You really want to delete selected records?";
         const string caption = @"Delete warning";
         if (MessageBox.Show(question, caption, MessageBoxButtons.OKCancel) != DialogResult.OK) return;
-        var queryable = from order in context.Orders
-                        join orderDetail in context.OrdersDetails on order.OrderId equals orderDetail.Orderid
+        var queryable = from orderDetail in context.OrdersDetails 
                         join meassure in context.Meassures on orderDetail.Serialid equals meassure.SerialId
                         where
-                            order.OrderId == item.OrderId
+                            orderDetail.Serialid == item.Serialid
                         select new
                         {
                             Serialid = orderDetail.Serialid,
                             TestId = meassure.TestId
                         };
-        var meassures = await queryable
-            .ToListAsync();
-        var testIds = meassures.Select(x => x.TestId).ToList();
-        if (context.MeassuredVals.Count(x => testIds.Contains(x.TestId))>0)
+        var order_position = await queryable.FirstAsync();
+        if (context.MeassuredVals.Count(x => order_position.TestId==x.TestId)>0)
         {
-            MessageBox.Show("Заказ не может быть удалён");
+            MessageBox.Show("Позиция не может быть удалена");
             return;
         }
         using var transaction = await context.Database.BeginTransactionAsync();
         try
         {
-            foreach ( var meassure in meassures) 
+
+            context.Remove(context.Meassures.Single(a => a.TestId == order_position.TestId));
+            context.Remove(context.OrdersDetails.Single(a => a.Serialid == order_position.Serialid));
+            var position_count= context.OrdersDetails.Count(x => item.OrderId == x.Orderid);
+            if (position_count == 1)
             {
-                context.Remove(context.Meassures.Single(a => a.TestId == meassure.TestId));
-                context.Remove(context.OrdersDetails.Single(a => a.Serialid == meassure.Serialid));
+                context.Remove(context.Orders.Single(x => x.OrderId == item.OrderId));
             }
-            context.Remove(context.Orders.Single(x => x.OrderId== item.OrderId));
             context.SaveChanges();
             await transaction.CommitAsync();
         }
